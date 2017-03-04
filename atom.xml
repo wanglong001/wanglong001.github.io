@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Poison</title>
+  <subtitle>田爽</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://tianshuang.me/"/>
+  <updated>2017-03-01T14:34:00.000Z</updated>
+  <id>https://tianshuang.me/</id>
+  
+  <author>
+    <name>Poison</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2014年昆明火车站暴力恐怖袭击事件</title>
+    <link href="https://tianshuang.me/2014%E5%B9%B4%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6/index.html"/>
+    <id>https://tianshuang.me/2014年昆明火车站暴力恐怖袭击事件/index.html</id>
+    <published>2017-03-01T14:32:20.000Z</published>
+    <updated>2017-03-01T14:34:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>安息吧。</p>
+<p><a href="https://zh.wikipedia.org/zh-cn/2014%E5%B9%B4%E6%98%86%E6%98%8E%E7%81%AB%E8%BD%A6%E7%AB%99%E6%9A%B4%E5%8A%9B%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6" target="_blank" rel="external">2014年昆明火车站暴力恐怖袭击事件</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;安息吧。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/zh-cn/2014%E5%B9%B4%E6%98%86%E6%98%8E%E7%
+    
+    </summary>
+    
+    
+      <category term="昆明" scheme="https://tianshuang.me/tags/%E6%98%86%E6%98%8E/"/>
+    
+      <category term="暴力" scheme="https://tianshuang.me/tags/%E6%9A%B4%E5%8A%9B/"/>
+    
+      <category term="恐怖" scheme="https://tianshuang.me/tags/%E6%81%90%E6%80%96/"/>
+    
+      <category term="袭击" scheme="https://tianshuang.me/tags/%E8%A2%AD%E5%87%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>High Performance Browser Networking</title>
+    <link href="https://tianshuang.me/High-Performance-Browser-Networking/index.html"/>
+    <id>https://tianshuang.me/High-Performance-Browser-Networking/index.html</id>
+    <published>2017-02-24T14:57:17.000Z</published>
+    <updated>2017-02-24T15:01:31.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>看了下目录，感觉与<a href="https://book.douban.com/subject/1391207/" target="_blank" rel="external">《计算机网络 自顶向下方法》</a>的内容有几分相似之处，留下以备不时之需。</p>
+<p><a href="https://hpbn.co/" target="_blank" rel="external">《High Performance Browser Networking》</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;看了下目录，感觉与&lt;a href=&quot;https://book.douban.com/subject/1391207/&quot; target=&quot;_blank&quot; rel=&quot;extern
+    
+    </summary>
+    
+    
+      <category term="网络" scheme="https://tianshuang.me/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多动态图详细讲解二叉搜索树</title>
+    <link href="https://tianshuang.me/%E5%A4%9A%E5%8A%A8%E6%80%81%E5%9B%BE%E8%AF%A6%E7%BB%86%E8%AE%B2%E8%A7%A3%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/index.html"/>
+    <id>https://tianshuang.me/多动态图详细讲解二叉搜索树/index.html</id>
+    <published>2017-02-24T14:55:45.000Z</published>
+    <updated>2017-02-24T14:56:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://mp.weixin.qq.com/s/Qcb9kOPQs0aQSIeAqmNpOQ" target="_blank" rel="external">多动态图详细讲解二叉搜索树</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://mp.weixin.qq.com/s/Qcb9kOPQs0aQSIeAqmNpOQ&quot; target=&quot;_blank&quot; rel=&quot;exter
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>阿里巴巴Java开发手册 笔记</title>
+    <link href="https://tianshuang.me/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C-%E7%AC%94%E8%AE%B0/index.html"/>
+    <id>https://tianshuang.me/阿里巴巴Java开发手册-笔记/index.html</id>
+    <published>2017-02-17T10:12:35.000Z</published>
+    <updated>2017-02-26T04:05:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h3 id="编程规约"><a href="#编程规约" class="headerlink" title="编程规约"></a>编程规约</h3><ul>
+<li>POJO 类中布尔类型的变量，都不要加 is，否则部分框架解析会引起序列化错误。假设定义一个 boolean 的 isSuccess 属性，它的方法 Getter 被IDE生成为 isSuccess()，RPC等三方框架在反向解析的时候，“以为”对应的属性名称是 success，导致属性获取不到，进而抛出异常。这点也是笔者之前遇到过的，查了很久哪里的错最后发现是这个问题，不过经历一次后基本后面就能避免。</li>
+<li>接口类中的方法和属性不要加任何修饰符号。包括在一些开源的代码里，笔者也经常看见在接口方法上声明 public 关键字的，这是冗余的，在Java规范中提到过。关于代码的规范及简洁性诸位可以参考<a href="https://book.douban.com/subject/4262627/" target="_blank" rel="external">《重构 改善既有代码的设计》</a> 及 <a href="https://book.douban.com/subject/4199741/" target="_blank" rel="external">《代码整洁之道》</a>。</li>
+</ul>
+<a id="more"></a>
+<ul>
+<li>方法体内的执行语句组、变量的定义语句组、不同的业务逻辑之间或者不同的语义之间插入一个空行。相同业务逻辑和语义之间不需要插入空行。不过没有必要插入多行空格进行隔开。这样可读性会明显提高，笔者经常看到部分开发人员的代码在很长的代码块里完全没有一个空行，没有按逻辑进行换行，这种习惯是不太好的。</li>
+<li>所有的覆写方法，必须加 @Override 注解。这样IDE会检查合法性，有错误的话会及时提示。</li>
+<li>所有的相同类型的包装类对象之间值的比较，全部使用 equals 方法比较。比如 Integer 的-128至127之间被缓存的对象可以直接使用==判断，因为被缓存了，是同一对象，地址相等，而这个区间外的却不能使用==判断，这也是面试时的一个常考点。</li>
+<li>关于基本数据类型与包装数据类型：所有的POJO类属性必须使用包装数据类型，以便映射数据库中的NULL，局部变量推荐使用基本数据类型。</li>
+<li>关于 hashCode 和 equals 的处理，遵循如下规则：只要重写 equals，就必须重写 hashCode，具体原因可参考<a href="https://book.douban.com/subject/3360807/" target="_blank" rel="external">《Effective java 中文版（第2版）》</a>。</li>
+<li>关于 ArrayList 里 subList 结果的注意事项，subList 只是 ArrayList 的一个视图，这部分大家可以参考JDK里的源码。</li>
+<li>不要在 foreach 循环里进行元素的 remove/add 操作。remove 元素请使用 Iterator 方式，如果并发操作，需要对 Iterator 对象加锁。</li>
+<li>在 JDK7 版本以上，Comparator 要满足自反性，传递性，对称性，不然 Arrays.sort， Collections.sort 会报 IllegalArgumentException 异常。这个在《Effective java 中文版（第2版）》中也有说明，虽然笔者之前看过，但在刚实习时的一个用于省份排序的代码里使用 Comparator 时还是忘了处理值相等的情况，所以，还是要实战后才能加深记忆。</li>
+<li>集合初始化时，尽量指定集合初始值大小。这在笔者实习面试时也被问到，这块的话主要考察 ArrayList 的原理，内部机制，诸位看看JDK里 ArrayList 的原理就明白了。</li>
+<li>创建线程或线程池时请指定有意义的线程名称，方便出错时回溯。</li>
+<li>高并发时，同步调用应该去考量锁的性能损耗。能用无锁数据结构，就不要用锁；能锁区块，就不要锁整个方法体；能用对象锁，就不要用类锁。概括为一句话就是：尽量降低锁的粒度。</li>
+<li>对多个资源、数据库表、对象同时加锁时，需要保持一致的加锁顺序，否则可能会造成死锁。关于并发这块可以参考<a href="https://book.douban.com/subject/10484692/" target="_blank" rel="external">《Java并发编程实战》</a>，个人认为这本在笔者看过Java并发的书籍里能算上乘之作，另外也可参考<a href="https://book.douban.com/subject/26591326/" target="_blank" rel="external">《Java并发编程的艺术》</a>。</li>
+<li>通过双重检查锁(double-checked locking)(在并发场景)实现延迟初始化的优化问题隐患(可参考 The “Double-Checked Locking is Broken” Declaration)，推荐问题解决方案中较为简单一种(适用于 JDK5 及以上版本)，将目标属性声明为 volatile 型。这部分涉及到两个重点，一是双重检查锁，二是 volatile 的原理及Java的主内存及每个线程的内存之间的关系。volatile只能解决多线程时的内存可见性问题，无法解决线程安全问题。可参考<a href="https://en.wikipedia.org/wiki/Double-checked_locking#Usage_in_Java" target="_blank" rel="external">Double checked locking</a> 及 <a href="https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom" target="_blank" rel="external">Initialization on demand holder idiom</a>。</li>
+<li>注释掉的代码尽量要配合说明，而不是简单的注释掉。如果永久不用，建议直接删除，因为Git等版本控制系统保存了历史代码。</li>
+<li>好的命名、代码结构是自解释的，注释力求精简准确、表达到位。避免无用的注释。</li>
+<li>善用 TODO 及 FIXME，IDE可以方便的进行扫描。</li>
+<li>获取当前毫秒数使用 System.currentTimeMillis()，System.nanoTime()产生的值仅用于比较，同一时刻不同虚拟机System.nanoTime()返回的值可能不一样并且相差很大，笔者的同事已经踩过一次坑，关于 nanoTime 诸位可以看一看JavaDoc。</li>
+</ul>
+<h3 id="异常日志"><a href="#异常日志" class="headerlink" title="异常日志"></a>异常日志</h3><ul>
+<li>不要捕获Java类库中定义的继承自 RuntimeException 的运行时异常类，如：IndexOutOfBoundsException / NullPointerException，这类异常由程序员预检查来规避，保证程序健壮性。说到这里，异常继承结构图也可以看下。</li>
+<li>捕获异常是为了处理它，不要捕获了却什么都不处理而抛弃之，如果不想处理它，请将该异常抛给它的调用者。最外层的业务使用者，必须处理异常，将其转化为用户可以理解的内容。</li>
+<li>避免出现重复的代码(Don’t Repeat Yourself)，即DRY原则。关于这部分可参考<a href="https://book.douban.com/subject/5387402/" target="_blank" rel="external">《程序员修炼之道》</a>。</li>
+<li>谨慎地记录日志。生产环境禁止输出 debug 日志；有选择地输出 info 日志；如果使用 warn 来记录刚上线时的业务行为信息，一定要注意日志输出量的问题，避免把服务器磁盘撑爆，并记得及时删除这些观察日志。关于日志把server磁盘撑爆的问题，我司也出现过，后面加了相关监控来避免。</li>
+</ul>
+<h3 id="MySQL规约"><a href="#MySQL规约" class="headerlink" title="MySQL规约"></a>MySQL规约</h3><ul>
+<li>表达是与否概念的字段，必须使用 is_xxx 的方式命名，数据类型是 unsigned tinyint (1表示是，0表示否)，此规则同样适用于odps建表。任何字段如果为非负数，必须是 unsigned。因为这样的话可用容量提升了一倍。</li>
+<li>表名不使用复数名词。表名应该仅仅表示表里面的实体内容，不应该表示实体数量，对应于 DO 类名也是单数形式，符合表达习惯。</li>
+<li>禁用保留字，如 desc、range、match、delayed 等，禁止在代码里对 SQL 关键字进行单独处理。</li>
+<li>唯一索引名为 uk_字段名，普通索引名则为 idx_字段名。这样能让开发人员一眼就知道相关索引。</li>
+<li>如果存储的字符串长度几乎相等，使用 char 定长字符串类型。</li>
+<li>表必备三字段:id, gmt_create, gmt_modified。其中id必为主键，类型为unsigned bigint、单表时自增、步长为1。gmt_create, gmt_modified 的类型均为 date_time 类型。创建时间与修改时间需要记录笔者理解，不理解的为什么要用 gmt 开头，北京时间应该是GMT + 8:00 啊。</li>
+<li>字段允许适当冗余，以提高性能，但是必须考虑数据同步的情况。冗余字段应遵循：不是频繁修改的字段；不是 varchar 超长字段，更不能是 text 字段。比如我司的很多表都冗余了 user_name 这个字段。</li>
+<li>单表行数超过 500 万行或者单表容量超过 2GB，才推荐进行分库分表。</li>
+<li>业务上具有唯一特性的字段，即使是组合字段，也必须建成唯一索引。即使在应用层做了非常完善的校验和控制，只要没有唯一索引，根据墨菲定律，必然有脏数据产生。</li>
+<li>页面搜索严禁左模糊或者全模糊，如果需要请走搜索引擎来解决。索引文件具有 B-Tree 的最左前缀匹配特性，如果左边的值未确定，那么无法使用此索引。关于 MySQL 的知识，诸位可参考<a href="https://book.douban.com/subject/23008813/" target="_blank" rel="external">《高性能MySQL》</a>。</li>
+<li>利用延迟关联或者子查询优化超多分页场景。MySQL 并不是跳过 offset 行，而是取 offset+N 行，然后返回放弃前 offset 行，返回 N 行，那当 offset 特别大的时候，效率就非常的低下，要么控制返回的总页数，要么对超过特定阈值的页数进行 SQL 改写。</li>
+<li>建组合索引的时候，区分度最高的在最左边。</li>
+<li>不要使用 count(列名)或 count(常量)来替代 count(*)，count(*)就是 SQL92 定义 的标准统计行数的语法，跟数据库无关，跟 NULL 和非 NULL 无关。</li>
+<li>不得使用外键与级联，一切外键概念必须在应用层解决。外键与级联更新适用于单机低并发，不适合分布式、高并发集群；级联更新是强阻塞，存在数据库更新风暴的风险；外键影响数据库的插入速度。</li>
+<li>禁止使用存储过程，存储过程难以调试和扩展，更没有移植性。</li>
+<li>数据订正时，删除和修改记录时，要先 select，避免出现误删除，确认无误才能执行更新语句。</li>
+</ul>
+<h3 id="工程规约"><a href="#工程规约" class="headerlink" title="工程规约"></a>工程规约</h3><ul>
+<li>高并发服务器建议调小 TCP 协议的 time_wait 超时时间。</li>
+<li>调大服务器所支持的最大文件句柄数(File Descriptor，简写为fd)。</li>
+<li>给 JVM 设置-XX:+HeapDumpOnOutOfMemoryError 参数，让 JVM 碰到 OOM 场景时输出 dump 信息。</li>
+</ul>
+<h3 id="安全规约"><a href="#安全规约" class="headerlink" title="安全规约"></a>安全规约</h3><ul>
+<li>隶属于用户个人的页面或者功能必须进行权限控制校验。</li>
+<li>用户敏感数据禁止直接展示，必须对展示数据脱敏。</li>
+<li>用户输入的 SQL 参数严格使用参数绑定或者 METADATA 字段值限定，防止 SQL 注入， 禁止字符串拼接 SQL 访问数据库。</li>
+<li>用户请求传入的任何参数必须做有效性验证。</li>
+<li>表单、AJAX 提交必须执行 CSRF 安全过滤。</li>
+<li>在使用平台资源，譬如短信、邮件、电话、下单、支付，必须实现正确的防重放限制， 如数量限制、疲劳度控制、验证码校验，避免被滥刷、资损。</li>
+<li>关于安全这块可以阅读<a href="https://book.douban.com/subject/10546925/" target="_blank" rel="external">《白帽子讲Web安全》</a>。</li>
+</ul>
+<p><a href="https://ohpew91u7.qnssl.com/2017/02/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C.pdf" target="_blank" rel="external">阿里巴巴Java开发手册</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;编程规约&quot;&gt;&lt;a href=&quot;#编程规约&quot; class=&quot;headerlink&quot; title=&quot;编程规约&quot;&gt;&lt;/a&gt;编程规约&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;POJO 类中布尔类型的变量，都不要加 is，否则部分框架解析会引起序列化错误。假设定义一个 boolean 的 isSuccess 属性，它的方法 Getter 被IDE生成为 isSuccess()，RPC等三方框架在反向解析的时候，“以为”对应的属性名称是 success，导致属性获取不到，进而抛出异常。这点也是笔者之前遇到过的，查了很久哪里的错最后发现是这个问题，不过经历一次后基本后面就能避免。&lt;/li&gt;
+&lt;li&gt;接口类中的方法和属性不要加任何修饰符号。包括在一些开源的代码里，笔者也经常看见在接口方法上声明 public 关键字的，这是冗余的，在Java规范中提到过。关于代码的规范及简洁性诸位可以参考&lt;a href=&quot;https://book.douban.com/subject/4262627/&quot;&gt;《重构 改善既有代码的设计》&lt;/a&gt; 及 &lt;a href=&quot;https://book.douban.com/subject/4199741/&quot;&gt;《代码整洁之道》&lt;/a&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="规范" scheme="https://tianshuang.me/tags/%E8%A7%84%E8%8C%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一则经典技术面试题目的解读</title>
+    <link href="https://tianshuang.me/%E4%B8%80%E5%88%99%E7%BB%8F%E5%85%B8%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E7%9B%AE%E7%9A%84%E8%A7%A3%E8%AF%BB/index.html"/>
+    <id>https://tianshuang.me/一则经典技术面试题目的解读/index.html</id>
+    <published>2017-02-15T15:55:00.000Z</published>
+    <updated>2017-02-27T14:53:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>笔者从Pocket里翻出了这篇caoz的<a href="http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&amp;mid=209679438&amp;idx=1&amp;sn=d68c1512ad23f6e164f69bd351a18c62&amp;scene=21#wechat_redirect" target="_blank" rel="external">「一则经典技术面试题目的解读」</a>，其实这篇文章说的这道面试题在许令波的<a href="https://book.douban.com/subject/25953851/" target="_blank" rel="external">《深入分析Java Web技术内幕（修订版）》</a>也提到过，笔者也是当年大二读过此书后对用户的一次访问有了全局性的认识，后面再慢慢将相关的知识点补齐，现在的大多数文章就像快餐，要想系统性的学习还是要看完相关书籍，这也应了那句话，“没有捷径可走”。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;笔者从Pocket里翻出了这篇caoz的&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&amp;amp;mid=2
+    
+    </summary>
+    
+    
+      <category term="面试" scheme="https://tianshuang.me/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>道哥的黑板报</title>
+    <link href="https://tianshuang.me/%E9%81%93%E5%93%A5%E7%9A%84%E9%BB%91%E6%9D%BF%E6%8A%A5/index.html"/>
+    <id>https://tianshuang.me/道哥的黑板报/index.html</id>
+    <published>2017-02-15T15:35:53.000Z</published>
+    <updated>2017-02-15T15:50:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>知道道哥是因为大二读闲书时读了<a href="https://book.douban.com/subject/10546925/" target="_blank" rel="external">《白帽子讲Web安全》</a>，由于最近几天笔者在我司忙于迁移对象存储及测试daily环境下重新调整后的稳定性，笔者的Pocket里堆满了未读文章。昨日工作基本做完了，今日得以有空来筛选Pocket里的知识，这篇<a href="http://mp.weixin.qq.com/s/_snozlQIcfROxuexpVTe9Q" target="_blank" rel="external">「我回阿里的29个月」</a>是道哥2月8日就发布的，今日才得以阅读，印象最深的一点就是“没有捷径可走”，这也是caoz多次提到的，就算是富二代，那也是别人父亲一手打拼起来的啊。所以，许多时候还是该沉下心来做事，你我和这些大神比起来都太过渺小，做好当下的工作，不要浪费每一天。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;知道道哥是因为大二读闲书时读了&lt;a href=&quot;https://book.douban.com/subject/10546925/&quot; target=&quot;_blank&quot; rel=
+    
+    </summary>
+    
+    
+      <category term="安全" scheme="https://tianshuang.me/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RegExr 可视化正则工具</title>
+    <link href="https://tianshuang.me/RegExr-%E5%8F%AF%E8%A7%86%E5%8C%96%E6%AD%A3%E5%88%99%E5%B7%A5%E5%85%B7/index.html"/>
+    <id>https://tianshuang.me/RegExr-可视化正则工具/index.html</id>
+    <published>2017-02-15T15:24:54.000Z</published>
+    <updated>2017-02-15T15:33:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>微博上看见网路冷眼推荐的，之前需要测试自己写的正则是否正确都是手写程序验证的，不及可视化来得实在，不用再解释了，上链接。</p>
+<p><a href="http://regexr.com/" target="_blank" rel="external">RegExr is an online tool to learn, build, &amp; test Regular Expressions (RegEx / RegExp).</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;微博上看见网路冷眼推荐的，之前需要测试自己写的正则是否正确都是手写程序验证的，不及可视化来得实在，不用再解释了，上链接。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://reg
+    
+    </summary>
+    
+    
+      <category term="regex" scheme="https://tianshuang.me/tags/regex/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>域名服务器缓存污染</title>
+    <link href="https://tianshuang.me/%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93/index.html"/>
+    <id>https://tianshuang.me/域名服务器缓存污染/index.html</id>
+    <published>2017-02-15T07:20:38.000Z</published>
+    <updated>2017-02-15T15:32:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>无意间点进了这个wiki词条，当时实习面试时还讨论过这个问题，当在中国大陆解析google.com时是怎么处理的，因为笔者之前看过相关的资料，就把之前的说了一遍，比如说解析到阿塞拜疆啊等等，说到DNS，你可以将话题延伸至UDP，可以谈到UDP的不可靠性，就域名劫持这个方面又可以延伸至HTTPDNS，说到HTTPDNS又可以说到智能DNS，根据客户端IP定向解析，从此说到CDN是怎么判断用户当前最近的节点的等等，还能提到迅雷15年做的CDN，模式就像滴滴、Uber以及现在遍布街头的共享单车。当然，以上任何一点都不是简单几句话能讲清楚的，其实如果能谈到这里的话，与面试官在讨论中已经是一种平等的交流关系了，在此体现了知识的广度，注意，也仅仅是广度而已，当然，这些都是建立在某一块知识的深度之上的，属于附加分。所以笔者的建议还是由深至广。</p>
+<a id="more"></a>
+<p>扯了这么多，该上硬菜了，大家还是看词条吧。</p>
+<p><a href="https://zh.wikipedia.org/zh-cn/%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%BC%93%E5%AD%98%E6%B1%A1%E6%9F%93" target="_blank" rel="external">域名服务器缓存污染</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;无意间点进了这个wiki词条，当时实习面试时还讨论过这个问题，当在中国大陆解析google.com时是怎么处理的，因为笔者之前看过相关的资料，就把之前的说了一遍，比如说解析到阿塞拜疆啊等等，说到DNS，你可以将话题延伸至UDP，可以谈到UDP的不可靠性，就域名劫持这个方面又可以延伸至HTTPDNS，说到HTTPDNS又可以说到智能DNS，根据客户端IP定向解析，从此说到CDN是怎么判断用户当前最近的节点的等等，还能提到迅雷15年做的CDN，模式就像滴滴、Uber以及现在遍布街头的共享单车。当然，以上任何一点都不是简单几句话能讲清楚的，其实如果能谈到这里的话，与面试官在讨论中已经是一种平等的交流关系了，在此体现了知识的广度，注意，也仅仅是广度而已，当然，这些都是建立在某一块知识的深度之上的，属于附加分。所以笔者的建议还是由深至广。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="DNS" scheme="https://tianshuang.me/tags/DNS/"/>
+    
+      <category term="GFW" scheme="https://tianshuang.me/tags/GFW/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么文件名要小写？</title>
+    <link href="https://tianshuang.me/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%87%E4%BB%B6%E5%90%8D%E8%A6%81%E5%B0%8F%E5%86%99%EF%BC%9F/index.html"/>
+    <id>https://tianshuang.me/为什么文件名要小写？/index.html</id>
+    <published>2017-02-11T04:46:08.000Z</published>
+    <updated>2017-02-11T04:47:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html" target="_blank" rel="external">为什么文件名要小写？</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html&quot; ta
+    
+    </summary>
+    
+    
+      <category term="文件名" scheme="https://tianshuang.me/tags/%E6%96%87%E4%BB%B6%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>迟来的2016年度总结</title>
+    <link href="https://tianshuang.me/%E8%BF%9F%E6%9D%A5%E7%9A%842016%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/index.html"/>
+    <id>https://tianshuang.me/迟来的2016年度总结/index.html</id>
+    <published>2017-02-08T15:35:33.000Z</published>
+    <updated>2017-02-08T17:28:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center">青春啊<br>总是在这样分裂的失落的煎熬的夜晚让人伤心<br>我多么想你<br>只能轻轻唱歌</blockquote>
+
+<p>在这正月十二的夜晚，笔者挑灯夜战之后，写下这份迟来的2016年度总结。16年已经成为过去，这一年，经历了太多事，四月初出学校实习，长辈的离世，各项事务繁杂不清。2016，注定是悲伤的一年。</p>
+<a id="more"></a>
+<p>开学早早来到学校，三月面了阿里的实习内推，当然，历史总是惊人的相似，挂了，不过，作为一个渣学历的本科生，被刷是很正常的，当然，这不是失败的借口。笔者的第二次面试就是笔者现在的公司，然后就实习呗，当然，这次的面试官之前也是阿里的，这面试和笔者阿里实习内推面问的知识点是差不多的，因为岗位都是Java服务器端工程师，还告诉笔者阿里现在校招集团要求学校评级是A以上，没过也很正常。然后笔者就开始了实习生涯，因为这边给的Offer虽然比不上知乎上的随手几十w的年薪，但相对来说，也不会算低，并且在成都，笔者17年要面临毕业，学校还有一些事务需要处理，所以暂时不方便离开成都，这也是笔者后面没有再去参加其他面试的原因之一。以上是笔者的实习求职过程，生活的艰辛在这种时候体现得淋漓尽致。</p>
+<p>长辈的离世，让我恍如从梦中惊醒，一切都成了昨天，化为了回忆，不知不觉一晃二十余年，一直以为时间还有很多，想起送我的心形夜光石，不知散落到了何处，有的事只能长眠于记忆。</p>
+<p>同事准备在成都买房，苦于迟迟没有下手，十月出了新政，错过等一年，希望他能在下一波上涨前买下。</p>
+<p>吃饭，唱K，室友Moses追女生技术欠佳，屡次失手，室友RH就不一样了，成功率蛮高，当然，室友HB更是高人，只是不愿出招，还有三四个月就毕业了，四年转瞬即逝，即将各奔东西，不知还能相聚几次。</p>
+<p>二十多岁的年纪，经历最多的就是「迷茫」，能怎么办？像李逼说的，熬呗，就是熬，没有其他办法。</p>
+<p>晚安吧。</p>
+<audio controls><br>  <source src="https://ohpew91u7.qnssl.com/2017/02/%E6%9D%8E%E5%BF%97%20-%20%E6%A2%B5%E9%AB%98%E5%85%88%E7%94%9F%202015%E4%BC%B4%E5%A5%8F%E7%89%88.mp3" type="audio/mpeg"><br>  Your browser does not support the audio tag.<br></audio>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;青春啊&lt;br&gt;总是在这样分裂的失落的煎熬的夜晚让人伤心&lt;br&gt;我多么想你&lt;br&gt;只能轻轻唱歌&lt;/blockquote&gt;
+
+&lt;p&gt;在这正月十二的夜晚，笔者挑灯夜战之后，写下这份迟来的2016年度总结。16年已经成为过去，这一年，经历了太多事，四月初出学校实习，长辈的离世，各项事务繁杂不清。2016，注定是悲伤的一年。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="2016" scheme="https://tianshuang.me/tags/2016/"/>
+    
+      <category term="年度总结" scheme="https://tianshuang.me/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>What Is /dev/shm And Its Practical Usage</title>
+    <link href="https://tianshuang.me/What-Is-dev-shm-And-Its-Practical-Usage/index.html"/>
+    <id>https://tianshuang.me/What-Is-dev-shm-And-Its-Practical-Usage/index.html</id>
+    <published>2017-02-07T06:25:33.000Z</published>
+    <updated>2017-02-16T01:42:01.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>之前看caoz的文章里写到/dev/shm的用处，顺手Google之，感兴趣者可参见下方链接。</p>
+<p><a href="https://www.cyberciti.biz/tips/what-is-devshm-and-its-practical-usage.html" target="_blank" rel="external">What Is /dev/shm And Its Practical Usage</a><br><a href="https://en.wikipedia.org/wiki/Tmpfs" target="_blank" rel="external">tmpfs</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;之前看caoz的文章里写到/dev/shm的用处，顺手Google之，感兴趣者可参见下方链接。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.cyberciti.b
+    
+    </summary>
+    
+    
+      <category term="/dev/shm" scheme="https://tianshuang.me/tags/dev-shm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A ZeroMQ string</title>
+    <link href="https://tianshuang.me/A-ZeroMQ-string/index.html"/>
+    <id>https://tianshuang.me/A-ZeroMQ-string/index.html</id>
+    <published>2017-02-04T06:40:01.000Z</published>
+    <updated>2017-02-04T06:48:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://ohpew91u7.qnssl.com/2017/02/A%20ZeroMQ%20string.png" alt="A ZeroMQ string"></p>
+<p>ZeroMQ strings are length-specified and are sent on the wire without a trailing null. In the simplest case (and we’ll do this in our examples), a ZeroMQ string maps neatly to a ZeroMQ message frame, which looks like the above figure—a length and some bytes.</p>
+<p>看到这里诸位可以联想到Redis里的“simple dynamic string”也是采用类似的实现。详情请点击<a href="http://redisbook.com/preview/sds/implementation.html" target="_blank" rel="external">SDS 的定义</a>。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;img src=&quot;https://ohpew91u7.qnssl.com/2017/02/A%20ZeroMQ%20string.png&quot; alt=&quot;A ZeroMQ st
+    
+    </summary>
+    
+    
+      <category term="ZeroMQ" scheme="https://tianshuang.me/tags/ZeroMQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回答</title>
+    <link href="https://tianshuang.me/%E5%9B%9E%E7%AD%94/index.html"/>
+    <id>https://tianshuang.me/回答/index.html</id>
+    <published>2017-02-02T15:33:46.000Z</published>
+    <updated>2017-02-02T15:36:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>卑鄙是卑鄙者的通行证，<br>高尚是高尚者的墓志铭。<br>看吧，在那镀金的天空中，<br>飘满了死者弯曲的倒影。<br>冰川纪过去了，<br>为什么到处都是冰凌？<br>好望角发现了，<br>为什么死海里千帆相竞？<br>我来到这个世界上，<br>只带着纸、绳索和身影，<br>为了在审判之前，<br>宣读那些被判决了的声音。<br>告诉你吧，世界，<br>我 不 相 信！<br>纵使你脚下有一千名挑战者，<br>那就把我算做第一千零一名。<br>我不相信天是蓝的，<br>我不相信雷的回声，<br>我不相信梦是假的，<br>我不相信死无报应。<br>如果海洋注定要决堤，<br>就让所有的苦水都注入我心中，<br>如果陆地注定要上升，<br>就让人类重新选择生存的峰顶。<br>新的转机和闪闪的星斗，<br>正在缀满没有遮拦的天空，<br>那是五千年的象形文字，<br>那是未来人们凝视的眼睛。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;卑鄙是卑鄙者的通行证，&lt;br&gt;高尚是高尚者的墓志铭。&lt;br&gt;看吧，在那镀金的天空中，&lt;br&gt;飘满了死者弯曲的倒影。&lt;br&gt;冰川纪过去了，&lt;br&gt;为什么到处都是冰凌？&lt;br&gt;好
+    
+    </summary>
+    
+    
+      <category term="回答" scheme="https://tianshuang.me/tags/%E5%9B%9E%E7%AD%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>丽江之行（暗黑版）</title>
+    <link href="https://tianshuang.me/%E4%B8%BD%E6%B1%9F%E4%B9%8B%E8%A1%8C%EF%BC%88%E6%9A%97%E9%BB%91%E7%89%88%EF%BC%89/index.html"/>
+    <id>https://tianshuang.me/丽江之行（暗黑版）/index.html</id>
+    <published>2017-02-02T12:39:23.000Z</published>
+    <updated>2017-02-04T03:48:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>继之前的一篇「丽江之行」，为了还原一次真正的旅行，相比那些他们认为很美的东西，我更看重的是真相，故作此文。</p>
+<p>笔者出发时正值微博话题#女子称丽江旅游被毁容#上热门，在这片土地上，类似的事每天都在发生，区别只是是否被放大而已，正如大辉所说，想到自己是中国人，就释然了。</p>
+<a id="more"></a>
+<p>以下为旅途中遇到的一些暗黑之事：</p>
+<ul>
+<li><p>在拉市海骑马时，快上马时有人友好得递上手套，“戴上戴上，太阳这么大，不要晒着手”，这手套要是拿了的话就是软妹币10啊，骑马中途也有人拿照相机给你照相，“看这里看这里”，这照片要是拿了的话就是软妹币20啊，中途还有人叫你给马献爱心，可这爱心是有价的啊，10元一献，就是一小袋胡豆，笔者想，这哪是给马献爱心啊，这是给你献软妹币啊。</p>
+</li>
+<li><p>笔者去玉龙雪山是在携程上订的一日游，虽然没遇到电视上经常曝光那样恶心的导游，但行径不可谓不一致啊，在快要上雪山时导游就开始预热雪山上空气多么稀薄，没有氧气瓶怕是很难活着下来啊，虽然笔者身体素质说不上多好，但去阿坝那一带到了海拔四千多米的那什么山也没感到呼吸困难，玉龙雪山游客能到达的最高海拔也就4680米，这导游能说会道，当场就表示几乎只有他那卖的氧气瓶是真正的氧气，其余地方买的很多都是三无产品（唉，这不是打当地工商部门的脸吗？丽江市区到处充斥着出售三无氧气的店铺，还岂不是不把当地工商部门放在眼里？），里面的气体不仅不是氧气，还有害身体！当然，这导游推荐的正品氧气价格嘛肯定也要贵一点，就卖100一瓶吧，为了家人的健康，您还是买了吧，100元，买不了吃亏，买不了上当…当然，这还不算高，再售卖完正品氧气之后啊，导游热心的教大家如何使用氧气瓶，首先，撕掉外面的塑料包装纸，取下鼻罩，有孔的一面向下，就是这样！最后再附送一句，“这氧气瓶啊是一次性产品，拆了就不能退了啊”，笔者当时给这位导游在心里打了个满分，实力派。</p>
+</li>
+<li><p>俗话说，“人有三急”，笔者在市区闲逛时就遇到了这其中一急，尴尬得是在经过半个小时的寻找后，居然没有找到一个公共厕所，作为一个旅游城市，竟然在主要地区没有公共厕所，人啊，往往在这种时刻才知道平时习以为常的东西是多么珍贵，不得不怀念起天府之国，算了，先别怀念了，在询问了几个店家都无法救急的情况下，笔者只能寄希望于宾馆之类的场所，好吧，在冲进古城南门对面的“云武宾馆”后，果然，在一楼发现了公共卫生间，笔者不禁心中窃喜，“藏这么深，终于还是被笔者找到了”，走进一看，“XXX，门上居然加了一把锁！”，第一次遇见加了锁的公共卫生间，是在下输了，这可越来越急了啊，出了宾馆，看见对面有个公安局，那就去公安局寻求帮助吧，长这么大还没想警察叔叔寻求过帮助，刚走进公安局准备找个警察问一问，马上就有个值班警察出来，嘴上骂骂咧咧的呵斥道：“你们进来干嘛？招呼也不打，这是你们想进就进的吗？XXX”，正好此时有个女生从走廊另一侧走来，“不好意思，我们来找一下厕所，我们在外面没有找到，去宾馆但是宾馆里的公共厕所也是锁了的，不好意思不好意思，给你们添麻烦了”，此时，那个值班警察才消停下来，然后这位女生用手给笔者指了下方向，说到“那边那边，快去吧”，在笔者解决完一急后，走出公安局，那位值班民警紧跟着就把公安局大门的铁门关上，并用铁链上了锁，伴随着铁链声，笔者的目光与他有了一瞬交错。啊，丽江，我来了，我看见了，我被征服了。</p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;继之前的一篇「丽江之行」，为了还原一次真正的旅行，相比那些他们认为很美的东西，我更看重的是真相，故作此文。&lt;/p&gt;
+&lt;p&gt;笔者出发时正值微博话题#女子称丽江旅游被毁容#上热门，在这片土地上，类似的事每天都在发生，区别只是是否被放大而已，正如大辉所说，想到自己是中国人，就释然了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="游记" scheme="https://tianshuang.me/tags/%E6%B8%B8%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回不去的家乡</title>
+    <link href="https://tianshuang.me/%E5%9B%9E%E4%B8%8D%E5%8E%BB%E7%9A%84%E5%AE%B6%E4%B9%A1/index.html"/>
+    <id>https://tianshuang.me/回不去的家乡/index.html</id>
+    <published>2017-02-01T13:40:37.000Z</published>
+    <updated>2017-02-04T03:45:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>笔者的家乡位于一个平凡得不能再平凡的小县城，四川大英，前几天回去了一次，在此记录一些所见所闻。</p>
+<a id="more"></a>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/29.jpg" alt="住房出售"></p>
+<p>凋敝的墙上贴满了住房出售的广告，小县城的房有价无市，年轻人都去了城市，年轻人都去了工厂，种种现象只是年轻人逃离家乡的缩影。大城市就像抽水机，因为资源等各方面的优势，源源不断从周边地区吸取人才，这也造就了“京沪永远涨”这一神话，甚至被改写为“京沪深永远涨”。成都之于四川，就如北京之于中国，吸的不仅仅是人才，还有附近家庭一辈子的积蓄。对大多数普通家庭来说，苦心培养孩子这么多年，经过重重考试，从人堆中脱颖而出，来到大城市念大学，毕业了就是为了能留下来，在此扎根，不然后代又得走自己的老路，并且按照马太效应，越到后面想翻身就越难。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/30.jpg" alt="购房享受财政补贴"></p>
+<p>“购房享受财政补贴10000”可以看出小县城的房市的冷淡，并且到处可见不少工地依然在施工，随着货币的贬值，类似这种级别的小县城的房价没有升值反而在降。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/31.jpg" alt="住房出售"><br><img src="https://ohpew91u7.qnssl.com/2017/02/32.jpg" alt="住房出售"></p>
+<p>随处可见住房出售的小广告。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/33.jpg" alt="商业街"><br><img src="https://ohpew91u7.qnssl.com/2017/02/34.jpg" alt="OPPO"></p>
+<p>商业街，这就是OPPO/Vivo销量高的本质原因，😄</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/35.jpg" alt="尚派"></p>
+<p>废弃的街道，停业了的理发店。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/36.jpg" alt="排污"></p>
+<p>火车站下的一条小河沟，看着那么多一本正经分析雾霾原因的，正如讨论水污染的原因一般，一图胜千言。</p>
+<p>小县城收入跟不上，大家只得去北上广等地寻找机会，留下来的只是一片死寂的天空。</p>
+<audio controls><br>  <source src="https://ohpew91u7.qnssl.com/2017/02/%E6%9D%8E%E5%BF%97%20-%20%E5%AE%B6%E4%B9%A1.mp3" type="audio/mpeg"><br>  Your browser does not support the audio tag.<br></audio>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;笔者的家乡位于一个平凡得不能再平凡的小县城，四川大英，前几天回去了一次，在此记录一些所见所闻。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="家乡" scheme="https://tianshuang.me/tags/%E5%AE%B6%E4%B9%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>成都 国色天乡千莲音乐节 逼哥</title>
+    <link href="https://tianshuang.me/%E6%88%90%E9%83%BD-%E5%9B%BD%E8%89%B2%E5%A4%A9%E4%B9%A1%E5%8D%83%E8%8E%B2%E9%9F%B3%E4%B9%90%E8%8A%82-%E9%80%BC%E5%93%A5/index.html"/>
+    <id>https://tianshuang.me/成都-国色天乡千莲音乐节-逼哥/index.html</id>
+    <published>2017-02-01T11:05:08.000Z</published>
+    <updated>2017-02-04T03:45:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>16年国庆节的事了，趁着这几天放假，记录一下。</p>
+<p>随着年龄的增长，喜欢的歌手也在不停的变化，周杰伦、许嵩、李荣浩、宋冬野、李志等等，都代表不同时期的心理状况吧，在微博上看见了逼哥要来音乐节，马上搞了两张票，就为了那一小时，其他歌手的时间不是很感兴趣。</p>
+<p>票里含了33个游乐项目，先去体验了下，但找不到儿时的感觉，果然有的事只有在特定的时间做才有意义，就像小时候喜欢的但没买的玩具，现在买来找不到当时的感觉，又有什么意义？</p>
+<a id="more"></a>
+<p>下午四点多就到了舞台处，占据了一个比较好的位置，就为了近一点看逼哥开唱啊，逼哥出场时间为八点到九点，贰佰在逼哥之前，上两张贰佰的图。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/1.jpg" alt="我在太原和谁一起假装悲伤"></p>
+<p>唱一首悲伤的歌给你，请你不要再哭泣</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/2.jpg" alt="请你不要哭泣"></p>
+<p>狗日的青春</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/25.jpg" alt="狗日的青春"></p>
+<p>接近八点时，李志团队到场，全场开始尖叫，一如逼哥之前的演唱会，到了八点准时开唱，大屏幕显示出LOGO，大家都懂的。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/3.jpg" alt="南京李志"></p>
+<p>第一首当然是不可描述，老子转过身，哈哈哈。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/4.jpg" alt="好威武支持有希望"></p>
+<p>你就像屎的倒影！</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/5.jpg" alt="倒影"></p>
+<p>唉 祝我们的祖国繁荣富强吧<br>唉 让我们的领导永垂不朽啊<br>唉 祝我们的爱人万寿无疆吧<br>唉 让我们的青春坚强不倒啊</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/6.jpg" alt="青春"></p>
+<p>关于郑州我想的全是你，想来生活无非是痛苦和美丽</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/7.jpg" alt="关于郑州的记忆"></p>
+<p>欧米嘎，我不是在每个勃起的清晨才想起你</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/8.jpg" alt="苍井空"></p>
+<p>青春啊，总是在这样分裂的失落的煎熬的夜晚让人伤心</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/9.jpg" alt="苍井空"></p>
+<p>什么是我们，分开的借口！</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/10.jpg" alt="墙上的向日葵"></p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/11.jpg" alt="冷焰"><br><img src="https://ohpew91u7.qnssl.com/2017/02/12.jpg" alt="墙上的向日葵"></p>
+<p>如果没有人看着我，那该多快乐</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/13.jpg" alt="黑色信封"><br><img src="https://ohpew91u7.qnssl.com/2017/02/14.jpg" alt="黑色信封"></p>
+<p>多想和你一样，臭不要脸</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/15.jpg" alt="定西"><br><img src="https://ohpew91u7.qnssl.com/2017/02/16.jpg" alt="定西"></p>
+<p>我只是一个偶像派歌手</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/17.jpg" alt="鸵鸟"></p>
+<p>热河路有一家开了好多年的理发店，不管剪什么样的发型你只要付五块钱</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/18.jpg" alt="热河"><br><img src="https://ohpew91u7.qnssl.com/2017/02/19.jpg" alt="热河"><br><img src="https://ohpew91u7.qnssl.com/2017/02/20.jpg" alt="热河"></p>
+<p>妈妈，他们抛弃了我</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/21.jpg" alt="这个世界会好吗"></p>
+<p>人们不敢说话不敢停下脚步，因为心动常常带来危险</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/22.jpg" alt="山阴路的夏天"></p>
+<p>全体成员鞠躬</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/23.jpg" alt="谢幕"></p>
+<p>从八点到九点，中间没有一句废话，就是唱，满满一小时的诚意，17年逼哥的跨年因为种种原因没有去，18年及后面的搞到了票一定要去一次，还有从今年开始的叁叁肆计划，有时间就去吧，人活着一辈子，就这么点时间。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/26.jpg" alt="叁叁肆计划"><br><img src="https://ohpew91u7.qnssl.com/2017/02/27.jpg" alt="叁叁肆计划"><br><img src="https://ohpew91u7.qnssl.com/2017/02/28.jpg" alt="叁叁肆计划"></p>
+<p>再附一张</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/02/24.jpg" alt="All"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;16年国庆节的事了，趁着这几天放假，记录一下。&lt;/p&gt;
+&lt;p&gt;随着年龄的增长，喜欢的歌手也在不停的变化，周杰伦、许嵩、李荣浩、宋冬野、李志等等，都代表不同时期的心理状况吧，在微博上看见了逼哥要来音乐节，马上搞了两张票，就为了那一小时，其他歌手的时间不是很感兴趣。&lt;/p&gt;
+&lt;p&gt;票里含了33个游乐项目，先去体验了下，但找不到儿时的感觉，果然有的事只有在特定的时间做才有意义，就像小时候喜欢的但没买的玩具，现在买来找不到当时的感觉，又有什么意义？&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="李志" scheme="https://tianshuang.me/tags/%E6%9D%8E%E5%BF%97/"/>
+    
+      <category term="演唱会" scheme="https://tianshuang.me/tags/%E6%BC%94%E5%94%B1%E4%BC%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>丽江之行</title>
+    <link href="https://tianshuang.me/%E4%B8%BD%E6%B1%9F%E4%B9%8B%E8%A1%8C/index.html"/>
+    <id>https://tianshuang.me/丽江之行/index.html</id>
+    <published>2017-01-31T13:09:56.000Z</published>
+    <updated>2017-02-04T03:48:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>原本是没有计划春节出行的，完全是因为出乎意料的发了年终，本以为实习生是没有年终的，没想到最后也发了。好不容易有十天假，趁在毕业前还有点时间，那就出去一趟吧，川内的著名景点大多都去过了，那这次就选个省外的，打开同程旅游，看一下国内游，首先映入眼帘的就是丽江，那就去这吧，选择自由行，下单，准备放假时出发吧。</p>
+<a id="more"></a>
+<p>在去往丽江的航班上，与邻座的阿姨聊天时得知我还没有毕业时，阿姨问到我是学什么专业的，告之计算机，然后阿姨说这专业不错啊，她儿子也是学计算机的，清华大学毕业十多年了，现在年薪一百多w，但是税要扣很多，实际到手只有八十多w，再私下做点其他的，一年能拿到一百w左右。笔者转念一想，这不就是知乎上的平均水平百万年薪吗？这可让我这种渣学历转正后才税前十几w的情何以堪，没想到旅行也能随时给笔者励志啊。</p>
+<p>到达丽江后习惯性得看了看空气质量，终于不像成都那样随时两三百的AQI了，当然肯定是要看美标，中标现在大家都懂的，现如今合格的空气都是一种奢求，在成都时公司里那几台空气净化器整天工作个不停，户外还得戴口罩，在这里，可以大口呼吸，简直就是两个世界，好像来到了资本主义的地盘。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/1.jpg" alt="玉龙雪山"></p>
+<p>到达后与接机的卢哥聊天，途中路过丽江市第一高级中学，询之这里的学生是否补课，卢哥说这边基本都不补课，周末都放两天，还每月开一次运动会。当然，如果世世代代都在这里生活没有什么不妥，但如果准备去一二线城市的话相对来说还是很吃亏的，社会中下层的孩子，在公立学校接受了所谓的“快乐教育”后，构成了新一代的社会中下层，龟兔赛跑，如果兔子拼命向前跑呢？</p>
+<p>丽江古镇维护费每人80元，并且维护费不是景区门票，学生证等没有半价优惠，笔者不得不感叹这招实在是高。卢哥说最近古镇里的商贩还集体闹了一次，因为古镇并不是全封闭的，所以各个主要路口都有检查古镇维护费凭证的，而这些检查的工作人员一般六点半就下班了，这就导致了很多人为了避免缴纳古镇维护费，都选择晚上去逛古镇，白天古镇人流量较少，影响了古镇里商家们的生意。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/2.jpg" alt="古镇"></p>
+<p>酒吧，客栈，小吃等等，白天去的话出来后留在心里的就是一阵“我的小宝贝”的旋律。傍晚的话酒吧开始营业，歌手驻唱，又听到了“港岛妹妹，你献给我的西班牙馅饼”，导游说过注意酒托，前年好像严打了一阵，现在又开始慢慢出现了。其实现在的古镇基本都全部商业化了，大多数开店的都是江浙一带的，本地人不是很多。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/3.jpg" alt="拉市海"></p>
+<p>拉市海没什么好说的，就是骑马划船，阳光很好。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/4.jpg" alt="蓝月谷"></p>
+<p>雪山下的蓝月谷和九寨沟下的湖差不多，清澈见底。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/5.jpg" alt="雪山"></p>
+<p>玉龙雪山在上面时慢慢爬不会怎么缺氧，在山顶遇到有人求婚，女孩说了句“我愿意”。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/6.jpg" alt="求婚"></p>
+<p>在三股水风景区里，解说的当地导游说到之前他们淘金，多的时候一星期赚十几万，后来政府把他们的船炸了，亏了四十多万，真是惨痛教训啊。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/7.jpg" alt="丽江最美的地方"></p>
+<p>看见了这个所谓的“丽江最美的地方”，导游说这个口气还是有点大，加个之一比较合适。笔者当时心里只想起周鸿祎经常在微博上说的一句话“真是口气比脚气还大”。</p>
+<p><img src="https://ohpew91u7.qnssl.com/2017/01/8.jpg" alt="虎跳峡"></p>
+<p>虎跳峡，感觉和其他景区区别不是很大，有山，有水。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;原本是没有计划春节出行的，完全是因为出乎意料的发了年终，本以为实习生是没有年终的，没想到最后也发了。好不容易有十天假，趁在毕业前还有点时间，那就出去一趟吧，川内的著名景点大多都去过了，那这次就选个省外的，打开同程旅游，看一下国内游，首先映入眼帘的就是丽江，那就去这吧，选择自由行，下单，准备放假时出发吧。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="游记" scheme="https://tianshuang.me/tags/%E6%B8%B8%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OLTP vs. OLAP</title>
+    <link href="https://tianshuang.me/OLTP-vs-OLAP/index.html"/>
+    <id>https://tianshuang.me/OLTP-vs-OLAP/index.html</id>
+    <published>2017-01-17T01:46:55.000Z</published>
+    <updated>2017-01-17T01:50:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><ul>
+<li><p>OLTP (On-line Transaction Processing) is characterized by a large number of short on-line transactions (INSERT, UPDATE, DELETE). The main emphasis for OLTP systems is put on very fast query processing, maintaining data integrity in multi-access environments and an effectiveness measured by number of transactions per second. In OLTP database there is detailed and current data, and schema used to store transactional databases is the entity model (usually 3NF). </p>
+</li>
+<li><p>OLAP (On-line Analytical Processing) is characterized by relatively low volume of transactions. Queries are often very complex and involve aggregations. For OLAP systems a response time is an effectiveness measure. OLAP applications are widely used by Data Mining techniques. In OLAP database there is aggregated, historical data, stored in multi-dimensional schemas (usually star schema). </p>
+</li>
+</ul>
+<p><a href="http://datawarehouse4u.info/OLTP-vs-OLAP.html" target="_blank" rel="external">OLTP vs. OLAP</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;OLTP (On-line Transaction Processing) is characterized by a large number of sh
+    
+    </summary>
+    
+    
+      <category term="OLTP" scheme="https://tianshuang.me/tags/OLTP/"/>
+    
+      <category term="OLAP" scheme="https://tianshuang.me/tags/OLAP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DNS: root servers</title>
+    <link href="https://tianshuang.me/DNS-root-servers/index.html"/>
+    <id>https://tianshuang.me/DNS-root-servers/index.html</id>
+    <published>2017-01-13T06:53:49.000Z</published>
+    <updated>2017-01-13T06:59:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>A root name server is a name server for the root zone of the Domain Name System (DNS) of the Internet. It directly answers requests for records in the root zone and answers other requests by returning a list of the authoritative name servers for the appropriate top-level domain (TLD).</p>
+<p><a href="http://www.root-servers.org/" target="_blank" rel="external">http://www.root-servers.org/</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;A root name server is a name server for the root zone of the Domain Name System (DNS) o
+    
+    </summary>
+    
+    
+      <category term="DNS" scheme="https://tianshuang.me/tags/DNS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>TCP三次握手和Syn-Flood攻击</title>
+    <link href="https://tianshuang.me/TCP%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8CSyn-Flood%E6%94%BB%E5%87%BB/index.html"/>
+    <id>https://tianshuang.me/TCP三次握手和Syn-Flood攻击/index.html</id>
+    <published>2017-01-10T09:18:28.000Z</published>
+    <updated>2017-01-11T07:35:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&amp;mid=2650392396&amp;idx=1&amp;sn=8499f6b5cc6b67cb345d01c71ceafcb5&amp;chksm=86ccd77fb1bb5e693cd24cac0a747621d2fef9c0095c2a16fba77920deb9f88ed6af3bab9243&amp;mpshare=1&amp;scene=23&amp;srcid=01102EMQq6lFMUZY05DsSXVk#rd" target="_blank" rel="external">TCP三次握手和Syn-Flood攻击</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&amp;amp;mid=2650392396&amp;amp;idx=
+    
+    </summary>
+    
+    
+      <category term="TCP" scheme="https://tianshuang.me/tags/TCP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RESTful架构风格下的4大常见安全问题</title>
+    <link href="https://tianshuang.me/RESTful%E6%9E%B6%E6%9E%84%E9%A3%8E%E6%A0%BC%E4%B8%8B%E7%9A%844%E5%A4%A7%E5%B8%B8%E8%A7%81%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98/index.html"/>
+    <id>https://tianshuang.me/RESTful架构风格下的4大常见安全问题/index.html</id>
+    <published>2017-01-06T01:39:48.000Z</published>
+    <updated>2017-01-06T01:40:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://insights.thoughtworkers.org/security-issues-in-restful/" target="_blank" rel="external">RESTful架构风格下的4大常见安全问题</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://insights.thoughtworkers.org/security-issues-in-restful/&quot; target=&quot;_bla
+    
+    </summary>
+    
+    
+      <category term="RESTful" scheme="https://tianshuang.me/tags/RESTful/"/>
+    
+      <category term="安全" scheme="https://tianshuang.me/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分布式锁</title>
+    <link href="https://tianshuang.me/%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/index.html"/>
+    <id>https://tianshuang.me/分布式锁/index.html</id>
+    <published>2016-12-29T08:58:20.000Z</published>
+    <updated>2016-12-29T08:59:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://blog.brucefeng.info/post/distributed-locks" target="_blank" rel="external">分布式锁</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://blog.brucefeng.info/post/distributed-locks&quot; target=&quot;_blank&quot; rel=&quot;exte
+    
+    </summary>
+    
+    
+      <category term="分布式" scheme="https://tianshuang.me/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我们只畅享最疯狂的速度！</title>
+    <link href="https://tianshuang.me/%E6%88%91%E4%BB%AC%E5%8F%AA%E7%95%85%E4%BA%AB%E6%9C%80%E7%96%AF%E7%8B%82%E7%9A%84%E9%80%9F%E5%BA%A6%EF%BC%81/index.html"/>
+    <id>https://tianshuang.me/我们只畅享最疯狂的速度！/index.html</id>
+    <published>2016-12-21T14:26:54.000Z</published>
+    <updated>2016-12-21T14:33:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote><p>速度症候群，就是······只要谁超他的车，他就会立即反超。尽管道路两旁不时闪过限速牌，但他顾不了那么多。在别的时候，他总是落在别人后面。现在是在高速公路上，他再也不愿落在人后。</p>
+<footer><strong>《速度之恋——高速公路文化家园》</strong></footer></blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;blockquote&gt;&lt;p&gt;速度症候群，就是······只要谁超他的车，他就会立即反超。尽管道路两旁不时闪过限速牌，但他顾不了那么多。在别的时候，他总是落在别人后面。现在是在高速
+    
+    </summary>
+    
+    
+      <category term="速度" scheme="https://tianshuang.me/tags/%E9%80%9F%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>当服务QPS增高时我们做什么</title>
+    <link href="https://tianshuang.me/%E5%BD%93%E6%9C%8D%E5%8A%A1QPS%E5%A2%9E%E9%AB%98%E6%97%B6%E6%88%91%E4%BB%AC%E5%81%9A%E4%BB%80%E4%B9%88/index.html"/>
+    <id>https://tianshuang.me/当服务QPS增高时我们做什么/index.html</id>
+    <published>2016-12-21T03:33:53.000Z</published>
+    <updated>2016-12-21T03:37:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://blog.brucefeng.info/post/high-qps-service" target="_blank" rel="external">当服务QPS增高时我们做什么</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://blog.brucefeng.info/post/high-qps-service&quot; target=&quot;_blank&quot; rel=&quot;exter
+    
+    </summary>
+    
+    
+      <category term="性能优化" scheme="https://tianshuang.me/tags/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL Sorting Rows</title>
+    <link href="https://tianshuang.me/MySQL-Sorting-Rows/index.html"/>
+    <id>https://tianshuang.me/MySQL-Sorting-Rows/index.html</id>
+    <published>2016-12-15T02:50:01.000Z</published>
+    <updated>2016-12-15T03:12:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>之前一直以为MySQL的「ORDER BY」关键字在多列排序时未显式声明排序方式的列会沿用最后显式声明排序方式的列，今天才发现自己弄错了，罪过罪过。在多列排序时，不同的列拥有不同的排序方式，如果未显式声明，则采用默认的升序排序方式。</p>
+<p>You can sort on multiple columns, and you can sort different columns in different directions. For example, to sort by type of animal in ascending order, then by birth date within animal type in descending order (youngest animals first), use the following query:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div></pre></td><td class="code"><pre><div class="line">mysql&gt; SELECT name, species, birth FROM pet</div><div class="line">    -&gt; ORDER BY species, birth DESC;</div><div class="line">+----------+---------+------------+</div><div class="line">| name     | species | birth      |</div><div class="line">+----------+---------+------------+</div><div class="line">| Chirpy   | bird    | 1998-09-11 |</div><div class="line">| Whistler | bird    | 1997-12-09 |</div><div class="line">| Claws    | cat     | 1994-03-17 |</div><div class="line">| Fluffy   | cat     | 1993-02-04 |</div><div class="line">| Fang     | dog     | 1990-08-27 |</div><div class="line">| Bowser   | dog     | 1989-08-31 |</div><div class="line">| Buffy    | dog     | 1989-05-13 |</div><div class="line">| Puffball | hamster | 1999-03-30 |</div><div class="line">| Slim     | snake   | 1996-04-29 |</div><div class="line">+----------+---------+------------+</div></pre></td></tr></table></figure></p>
+<p>The DESC keyword applies only to the column name immediately preceding it (birth); it does not affect the species column sort order.</p>
+<p>参见<a href="http://dev.mysql.com/doc/refman/5.7/en/sorting-rows.html" target="_blank" rel="external">MySQL 5.7 Reference Manual 4.3.4.4 Sorting Rows</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;之前一直以为MySQL的「ORDER BY」关键字在多列排序时未显式声明排序方式的列会沿用最后显式声明排序方式的列，今天才发现自己弄错了，罪过罪过。在多列排序时，不同的列拥有
+    
+    </summary>
+    
+    
+      <category term="MySQL" scheme="https://tianshuang.me/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在劫难逃</title>
+    <link href="https://tianshuang.me/%E5%9C%A8%E5%8A%AB%E9%9A%BE%E9%80%83/index.html"/>
+    <id>https://tianshuang.me/在劫难逃/index.html</id>
+    <published>2016-12-09T07:05:18.000Z</published>
+    <updated>2016-12-10T14:19:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><blockquote class="blockquote-center">你好 医生<br>你能不能把我杀了<br>我的 胸口<br>好像被什么堵住了</blockquote><br>在这条大道上，没有人能背道而驰。人群中有许多人其实很聪明，他们只是沉默，施害人与受害人往往走在同一条大道上。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;你好 医生&lt;br&gt;你能不能把我杀了&lt;br&gt;我的 胸口&lt;br&gt;好像被什么堵住了&lt;/blockquot
+    
+    </summary>
+    
+    
+      <category term="陈词滥调" scheme="https://tianshuang.me/tags/%E9%99%88%E8%AF%8D%E6%BB%A5%E8%B0%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSAPP:计算机系统漫游</title>
+    <link href="https://tianshuang.me/CSAPP-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%BC%AB%E6%B8%B8/index.html"/>
+    <id>https://tianshuang.me/CSAPP-计算机系统漫游/index.html</id>
+    <published>2016-12-08T07:16:03.000Z</published>
+    <updated>2016-12-21T03:35:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>超线程，有时称为同时多线程（simultaneous multi-threading），是一项允许一个CPU执行多个控制流的技术。它涉及CPU某些硬件有多个备份，比如程序计数器和寄存器文件；而其他的硬件部分只有一份，比如执行浮点算术运算的单元。常规的处理器需要大约20000个时钟周期做不同线程间的转换，而超线程的处理器可以在单个周期的基础上决定要执行哪一个线程。这使得CPU能够更好地利用它的处理资源。例如，假设一个线程必须等到某些数据被装载到高速缓存中，那CPU久可以继续去执行另一个线程。举例来说，Intel Core i7处理器可以让一个核执行两个线程，所以一个4核的系统实际上可以并行地执行8个线程。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;超线程，有时称为同时多线程（simultaneous multi-threading），是一项允许一个CPU执行多个控制流的技术。它涉及CPU某些硬件有多个备份，比如程序计数
+    
+    </summary>
+    
+    
+      <category term="CSAPP" scheme="https://tianshuang.me/tags/CSAPP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CSAPP:信息的表示和处理</title>
+    <link href="https://tianshuang.me/CSAPP-%E4%BF%A1%E6%81%AF%E7%9A%84%E8%A1%A8%E7%A4%BA%E5%92%8C%E5%A4%84%E7%90%86/index.html"/>
+    <id>https://tianshuang.me/CSAPP-信息的表示和处理/index.html</id>
+    <published>2016-12-08T07:08:17.000Z</published>
+    <updated>2017-02-04T03:47:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><h5 id="算数运算"><a href="#算数运算" class="headerlink" title="算数运算"></a>算数运算</h5><p>对计算机的算数运算有深刻的理解是写出可靠程序的关键。比如，程序员和编译器不能用表达式（x-y&lt;0）来替代（x&lt;y），因为前者可能会产生溢出。甚至于也不能用表达式（-y&lt;-x）来替代，因为在二进制补码表示中负数和正数的范围是不对称的。算术溢出是造成程序错误和安全漏洞的一个常见根源。</p>
+<a id="more"></a>
+<h5 id="字"><a href="#字" class="headerlink" title="字"></a>字</h5><p>每台计算机都有一个字长（word size），指明整数和指针数据的标称大小（nominal size）。因为虚拟地址是以这样的一个字来编码的，所以字长决定的最重要的系统参数就是虚拟地址空间的最大大小。也就是说，对于一个字长尾w位的机器而言，虚拟地址的范围为0～2<sup>w</sup>-1，程序最多访问2<sup>w</sup>个字节。</p>
+<h5 id="寻址和字节顺序"><a href="#寻址和字节顺序" class="headerlink" title="寻址和字节顺序"></a>寻址和字节顺序</h5><p>某些机器选择在存储器中按照最低有效字节到最高有效字节的顺序存储对象，而另一些机器则按照从最高有效字节到最低有效字节的顺序存储。前一种规则————最低有效字节在最前面的方式，称为小端法（little endian）。大多数Intel兼容机都采用这种规则。后一种规则————最高有效字节在最前面的方式，称为大端法（big endian）。大多数IBM和Sun Microsystems的机器都采用这种规则。注意我们说的是“大多数”。这些规则并没有按照企业界限来划分。比如，IBM和Sun制造的个人计算机使用的是Intel兼容的处理器，因此用的就是小端法。许多比较新的微处理器使用双端法（bi-endian），也就是说可以把它们配置成座位大端或者小端的机器运行。</p>
+<h5 id="移位运算"><a href="#移位运算" class="headerlink" title="移位运算"></a>移位运算</h5><p>一般而言，机器支持两种形式的右移：逻辑右移和算术右移。逻辑右移在左端补k个0，算术右移是在左端补k个最高有效位的值。<br>C语言标准并没有明确定义应该是用哪种类型的右移。对于无符号数据（也就是以限定词unsigned声明的整型对象），右移必须是逻辑的。而对于有符号数据（默认的声明的整型对象），算术的或者逻辑的右移都可以。不幸的是，这就意味着假设一种或者另一种右移形式的代码都潜在着可移植性问题。然而，实际上，几乎所有的编译器／机器组合都对有符号数据使用算术右移，且许多程序员也都假设机器会使用这种右移。<br>另一方面，Java对于如何进行右移有明确的定义。表达式x&gt;&gt;k会将x算术右移k个位置，而x&gt;&gt;&gt;k会对x做逻辑右移。</p>
+<h6 id="移动k位，这里k很大"><a href="#移动k位，这里k很大" class="headerlink" title="移动k位，这里k很大"></a>移动k位，这里k很大</h6><figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">int</span>      lval = <span class="number">0xFEDCBA98</span>  &lt;&lt; <span class="number">32</span>;</div><div class="line"><span class="keyword">int</span>      aval = <span class="number">0xFEDCBA98</span>  &gt;&gt; <span class="number">36</span>;</div><div class="line"><span class="keyword">unsigned</span> uval = <span class="number">0xFEDCBA98</span>u &gt;&gt; <span class="number">40</span>;</div></pre></td></tr></table></figure>
+<p>C语言标准很小心地规避了说明在这种情况下该如何做。在许多机器上，当移动一个w位的值时，移位指令只考虑位移量的低log<sub>2</sub>w位，因此实际上位移量就是通过计算k mod w得到的。例如，在一台采用这个规则的32位机器上，上面三个移位运算分别是移动0、4和8位，得到结果：<br><figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">lval    <span class="number">0xFEDCBA98</span></div><div class="line">aval    <span class="number">0xFFEDCBA9</span></div><div class="line">uval    <span class="number">0x00FEDCBA</span></div></pre></td></tr></table></figure></p>
+<p>不过这种行为对于C程序来说是没有保证的，所以移位数量应该保持小于字长。<br>另一方面，Java特别要求位移数量应该按照我们前面所讲的求模的方法来计算。</p>
+<h6 id="与移位运算有关的操作符优先级问题"><a href="#与移位运算有关的操作符优先级问题" class="headerlink" title="与移位运算有关的操作符优先级问题"></a>与移位运算有关的操作符优先级问题</h6><p>常常有人会写这样的表达式1&lt;&lt;2+3&lt;&lt;4，其本意是(1&lt;&lt;2)+(3&lt;&lt;4)。但是在C语言中，前面的表达式等价于1&lt;&lt;(2+3)&lt;&lt;4，这是由于加法（和减法）的优先级比移位运算要高。然后，按照从左至右综合性规则，括号应该是这样打的(1&lt;&lt;(2+3))&lt;&lt;4，因此得到的结果是512，而不是期望的52。<br>在C表达式中搞错优先级是一种常见的程序错误，而且常常很难检查出来。所以当你拿不准的时候，请加上括号！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h5 id=&quot;算数运算&quot;&gt;&lt;a href=&quot;#算数运算&quot; class=&quot;headerlink&quot; title=&quot;算数运算&quot;&gt;&lt;/a&gt;算数运算&lt;/h5&gt;&lt;p&gt;对计算机的算数运算有深刻的理解是写出可靠程序的关键。比如，程序员和编译器不能用表达式（x-y&amp;lt;0）来替代（x&amp;lt;y），因为前者可能会产生溢出。甚至于也不能用表达式（-y&amp;lt;-x）来替代，因为在二进制补码表示中负数和正数的范围是不对称的。算术溢出是造成程序错误和安全漏洞的一个常见根源。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="CSAPP" scheme="https://tianshuang.me/tags/CSAPP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>异或操作的妙用</title>
+    <link href="https://tianshuang.me/%E5%BC%82%E6%88%96%E6%93%8D%E4%BD%9C%E7%9A%84%E5%A6%99%E7%94%A8/index.html"/>
+    <id>https://tianshuang.me/异或操作的妙用/index.html</id>
+    <published>2016-12-07T08:33:03.000Z</published>
+    <updated>2016-12-07T13:09:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><ol>
+<li>使特定位翻转，要使哪几位翻转就将与其进行^运算的该几位置为1即可。</li>
+<li>与0相^，保留原值。</li>
+<li>交换两个值，不用临时变量。这种交换方式并没有性能上的优势，它仅仅是一个智力游戏。</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;ol&gt;
+&lt;li&gt;使特定位翻转，要使哪几位翻转就将与其进行^运算的该几位置为1即可。&lt;/li&gt;
+&lt;li&gt;与0相^，保留原值。&lt;/li&gt;
+&lt;li&gt;交换两个值，不用临时变量。这种交换方
+    
+    </summary>
+    
+    
+      <category term="CSAPP" scheme="https://tianshuang.me/tags/CSAPP/"/>
+    
+      <category term="CS" scheme="https://tianshuang.me/tags/CS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>User space 与 Kernel space</title>
+    <link href="https://tianshuang.me/User-space-%E4%B8%8E-Kernel-space/index.html"/>
+    <id>https://tianshuang.me/User-space-与-Kernel-space/index.html</id>
+    <published>2016-12-07T08:22:25.000Z</published>
+    <updated>2016-12-07T08:24:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://www.ruanyifeng.com/blog/2016/12/user_space_vs_kernel_space.html" target="_blank" rel="external">User space 与 Kernel space</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://www.ruanyifeng.com/blog/2016/12/user_space_vs_kernel_space.html&quot; targ
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://tianshuang.me/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>理解字节序</title>
+    <link href="https://tianshuang.me/%E7%90%86%E8%A7%A3%E5%AD%97%E8%8A%82%E5%BA%8F/index.html"/>
+    <id>https://tianshuang.me/理解字节序/index.html</id>
+    <published>2016-12-07T08:22:10.000Z</published>
+    <updated>2016-12-07T08:24:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://www.ruanyifeng.com/blog/2016/11/byte-order.html" target="_blank" rel="external">理解字节序</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://www.ruanyifeng.com/blog/2016/11/byte-order.html&quot; target=&quot;_blank&quot; rel=
+    
+    </summary>
+    
+    
+      <category term="CS" scheme="https://tianshuang.me/tags/CS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The substring() Method in JDK 6 and JDK 7</title>
+    <link href="https://tianshuang.me/The-substring-Method-in-JDK-6-and-JDK-7/index.html"/>
+    <id>https://tianshuang.me/The-substring-Method-in-JDK-6-and-JDK-7/index.html</id>
+    <published>2016-11-18T02:35:43.000Z</published>
+    <updated>2016-11-18T02:36:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://www.programcreek.com/2013/09/the-substring-method-in-jdk-6-and-jdk-7/" target="_blank" rel="external">The substring() Method in JDK 6 and JDK 7</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://www.programcreek.com/2013/09/the-substring-method-in-jdk-6-and-jdk-7/
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 8 HashMaps, Keys and the Comparable interface</title>
+    <link href="https://tianshuang.me/Java-8-HashMaps-Keys-and-the-Comparable-interface/index.html"/>
+    <id>https://tianshuang.me/Java-8-HashMaps-Keys-and-the-Comparable-interface/index.html</id>
+    <published>2016-11-18T02:34:15.000Z</published>
+    <updated>2016-11-18T02:35:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="https://tamasgyorfi.net/2016/05/01/java-8-hashmaps-keys-and-the-comparable-interface/" target="_blank" rel="external">Java 8 HashMaps, Keys and the Comparable interface</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;https://tamasgyorfi.net/2016/05/01/java-8-hashmaps-keys-and-the-comparable-i
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Integer Swap</title>
+    <link href="https://tianshuang.me/Integer-Swap/index.html"/>
+    <id>https://tianshuang.me/Integer-Swap/index.html</id>
+    <published>2016-11-18T02:32:26.000Z</published>
+    <updated>2016-11-18T02:33:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&amp;mid=2650392147&amp;idx=1&amp;sn=91ba6172edb887217eca35532c8a4af3&amp;scene=0#wechat_redirect" target="_blank" rel="external">一个简单代码的不简单实现</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&amp;amp;mid=2650392147&amp;amp;idx=
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小而巧的数字压缩算法：zigzag</title>
+    <link href="https://tianshuang.me/%E5%B0%8F%E8%80%8C%E5%B7%A7%E7%9A%84%E6%95%B0%E5%AD%97%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%EF%BC%9Azigzag/index.html"/>
+    <id>https://tianshuang.me/小而巧的数字压缩算法：zigzag/index.html</id>
+    <published>2016-11-18T02:30:14.000Z</published>
+    <updated>2016-11-18T02:31:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>转自<a href="http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&amp;mid=2650392086&amp;idx=1&amp;sn=6a2ecfe2548f121a4726d03bf23f4478&amp;scene=0#wechat_redirect" target="_blank" rel="external">小而巧的数字压缩算法：zigzag</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;转自&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA3MDExNzcyNA==&amp;amp;mid=2650392086&amp;amp;idx=
+    
+    </summary>
+    
+    
+      <category term="算法" scheme="https://tianshuang.me/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Comet：基于 HTTP 长连接的服务器推技术</title>
+    <link href="https://tianshuang.me/Comet%EF%BC%9A%E5%9F%BA%E4%BA%8E-HTTP-%E9%95%BF%E8%BF%9E%E6%8E%A5%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E6%8A%80%E6%9C%AF/index.html"/>
+    <id>https://tianshuang.me/Comet：基于-HTTP-长连接的服务器推技术/index.html</id>
+    <published>2016-10-20T02:16:36.000Z</published>
+    <updated>2016-10-19T18:21:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>在学校的时候帮老师做过的项目中涉及到推送的部分使用了Comet，今天无意又看到这篇文章，顺手贴下以作留念。</p>
+<p><a href="http://www.ibm.com/developerworks/cn/web/wa-lo-comet/" target="_blank" rel="external">Comet：基于 HTTP 长连接的服务器推技术</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;在学校的时候帮老师做过的项目中涉及到推送的部分使用了Comet，今天无意又看到这篇文章，顺手贴下以作留念。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.ibm.co
+    
+    </summary>
+    
+    
+      <category term="HTTP" scheme="https://tianshuang.me/tags/HTTP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>False sharing</title>
+    <link href="https://tianshuang.me/False-sharing/index.html"/>
+    <id>https://tianshuang.me/False-sharing/index.html</id>
+    <published>2016-09-28T03:39:34.000Z</published>
+    <updated>2016-09-27T22:18:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>HikariCP的ConcurrentBag解释中提到了False sharing，查了下wiki，道理我都懂，不就是和Java内存模型中的主内存和每个线程的工作内存类似的原理吗（参见《深入理解Java虚拟机 JVM高级特性与最佳实践（第2版）》 第12章 Java内存模型与线程），既然看到了这里，诸位也可以自行回顾一下volatile的相关知识。</p>
+<p><a href="http://tutorials.jenkov.com/java-concurrency/volatile.html" target="_blank" rel="external">Java Volatile Keyword</a><br><a href="https://en.wikipedia.org/wiki/False_sharing" target="_blank" rel="external">False sharing</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;HikariCP的ConcurrentBag解释中提到了False sharing，查了下wiki，道理我都懂，不就是和Java内存模型中的主内存和每个线程的工作内存类似的原
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL JOINS</title>
+    <link href="https://tianshuang.me/SQL-JOINS/index.html"/>
+    <id>https://tianshuang.me/SQL-JOINS/index.html</id>
+    <published>2016-09-27T06:24:15.000Z</published>
+    <updated>2016-12-06T08:58:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://ohpew91u7.qnssl.com/2016/09/sql_joins.jpg" alt="SQL JOINS"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;img src=&quot;https://ohpew91u7.qnssl.com/2016/09/sql_joins.jpg&quot; alt=&quot;SQL JOINS&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="SQL" scheme="https://tianshuang.me/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to run process as background and never die?</title>
+    <link href="https://tianshuang.me/How-to-run-process-as-background-and-never-die/index.html"/>
+    <id>https://tianshuang.me/How-to-run-process-as-background-and-never-die/index.html</id>
+    <published>2016-09-21T02:57:14.000Z</published>
+    <updated>2016-09-20T19:02:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>nohup ./caddy &gt; /dev/null 2&gt;&amp;1 &amp;</p>
+<p><a href="http://stackoverflow.com/a/11856575/5973816" target="_blank" rel="external">How to run process as background and never die?</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;nohup ./caddy &amp;gt; /dev/null 2&amp;gt;&amp;amp;1 &amp;amp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://stackoverflow.com
+    
+    </summary>
+    
+    
+      <category term="Linux" scheme="https://tianshuang.me/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读写分离</title>
+    <link href="https://tianshuang.me/%E8%AF%BB%E5%86%99%E5%88%86%E7%A6%BB/index.html"/>
+    <id>https://tianshuang.me/读写分离/index.html</id>
+    <published>2016-08-17T02:38:42.000Z</published>
+    <updated>2017-03-01T08:45:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>之前介绍了多数据源的接入，参见<a href="https://tianshuang.me/Multiple%20Datasource/index.html">Multiple Datasource</a>，后来一个数据分析的项目（大部分都是读操作）需要用到读写分离，在分析时读取从库的数据，避免增加对线上数据库的压力，少部分写操作依然写主库，然后再被同步至从库，根据同事的建议，希望采用注解方式实现，从而在开发时只需加上特定的注解即可表明此DAO操作主库还是从库，原理依然与之前类似，以下是调整的部分：</p>
+<a id="more"></a>
+<blockquote>
+<p>为了保护隐私，以下代码部分命名被修改</p>
+</blockquote>
+<ol>
+<li><p>定义主从数据库的枚举，因为项目中大多数走从库，所以吧SLAVE写在了第一个</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Created by Poison on 8/15/2016.</div><div class="line"> */</div><div class="line"><span class="keyword">public</span> <span class="keyword">enum</span> Database &#123;</div><div class="line">    SLAVE,</div><div class="line">    MASTER</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>定义切换数据源的注解，注解基础可参见<a href="https://docs.oracle.com/javase/tutorial/java/annotations/index.html" target="_blank" rel="external">Lesson: Annotations</a>，根据同事需要只定义了类级别的注解，保留到运行时，读者完全可以根据自身需要自由发挥</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Created by Poison on 8/16/2016.</div><div class="line"> * This is a marker annotation.</div><div class="line"> * Use this annotation on DAO interface level, represent that all methods in this interface will operate your specified database.</div><div class="line"> */</div><div class="line"><span class="meta">@Documented</span></div><div class="line"><span class="meta">@Retention</span>(RetentionPolicy.RUNTIME)</div><div class="line"><span class="meta">@Target</span>(ElementType.TYPE)</div><div class="line"><span class="keyword">public</span> <span class="meta">@interface</span> DataSource &#123;</div><div class="line">    <span class="function">Database <span class="title">value</span><span class="params">()</span> <span class="keyword">default</span> Database.SLAVE</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>修改AOP相关代码，只有在DAO接口上应用了@DataSource注解，并且注解值为Database.MASTER时才走主库</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Created by Poison on 8/15/2016.</div><div class="line"> */</div><div class="line"></div><div class="line"><span class="meta">@Aspect</span></div><div class="line"><span class="meta">@Component</span></div><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">AroundDataSource</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="meta">@Around</span>(<span class="string">"execution(* me.tianshuang.dao..*.*(..))"</span>)</div><div class="line">    <span class="function"><span class="keyword">public</span> Object <span class="title">doBasicProfiling</span><span class="params">(ProceedingJoinPoint pjp)</span> <span class="keyword">throws</span> Throwable </span>&#123;</div><div class="line">        Object result;</div><div class="line">        <span class="keyword">if</span> (hasMasterAnnotation(pjp)) &#123;</div><div class="line">            DataSourceContextHolder.setDataSource(Database.MASTER);</div><div class="line">            result = pjp.proceed();</div><div class="line">            DataSourceContextHolder.restoreToSlaveDataSource();</div><div class="line">        &#125; <span class="keyword">else</span> &#123;</div><div class="line">            result = pjp.proceed();</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> result;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">private</span> <span class="keyword">boolean</span> <span class="title">hasMasterAnnotation</span><span class="params">(ProceedingJoinPoint pjp)</span> </span>&#123;</div><div class="line">        Class&lt;?&gt; declaringClass = ((MethodSignature) pjp.getSignature()).getMethod().getDeclaringClass();</div><div class="line">        <span class="keyword">if</span> (declaringClass.isAnnotationPresent(DataSource.class)) &#123;</div><div class="line">            DataSource dataSource = declaringClass.getAnnotation(DataSource.class);</div><div class="line">            <span class="keyword">if</span> (dataSource.value() == Database.MASTER) &#123;</div><div class="line">                <span class="keyword">return</span> <span class="keyword">true</span>;</div><div class="line">            &#125;</div><div class="line">        &#125;</div><div class="line">        <span class="keyword">return</span> <span class="keyword">false</span>;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure></li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;之前介绍了多数据源的接入，参见&lt;a href=&quot;https://tianshuang.me/Multiple%20Datasource/index.html&quot;&gt;Multiple Datasource&lt;/a&gt;，后来一个数据分析的项目（大部分都是读操作）需要用到读写分离，在分析时读取从库的数据，避免增加对线上数据库的压力，少部分写操作依然写主库，然后再被同步至从库，根据同事的建议，希望采用注解方式实现，从而在开发时只需加上特定的注解即可表明此DAO操作主库还是从库，原理依然与之前类似，以下是调整的部分：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>From concurrent to parallel</title>
+    <link href="https://tianshuang.me/From-concurrent-to-parallel/index.html"/>
+    <id>https://tianshuang.me/From-concurrent-to-parallel/index.html</id>
+    <published>2016-08-17T02:15:51.000Z</published>
+    <updated>2016-08-16T18:25:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote><p>More modern curricula describe concurrency as being about correctly and efficiently controlling access to shared resources, whereas parallelism is about using more resources to solve a problem faster. Constructing thread-safe data structures is the domain of concurrency, as enabled by primitives such as locks, events, semaphores, coroutines, or software transactional memory (STM). On the other hand, parallelism uses techniques like partitioning or sharding to enable multiple activities to make progress on the task without coordination.</p>
+<footer><strong>Brian Goetz</strong><cite><a href="http://www.ibm.com/developerworks/java/library/j-java-streams-4-brian-goetz/index.html" target="_blank" rel="external">From concurrent to parallel</a></cite></footer></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;blockquote&gt;&lt;p&gt;More modern curricula describe concurrency as being about correctly and eff
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Multiple Datasource</title>
+    <link href="https://tianshuang.me/Multiple%20Datasource/index.html"/>
+    <id>https://tianshuang.me/Multiple Datasource/index.html</id>
+    <published>2016-08-15T07:53:52.000Z</published>
+    <updated>2017-02-04T03:48:24.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>最近项目中需要接入多个数据源，起初准备让Mybatis来进行数据源的动态选择，但查询Mybatis的相关文档后，未发现官方对多数据源的支持，并且笔者的项目中Mybatis的使用采用全注解的方式，如果实例化两个SqlSessionFactory，在全注解使用Mybatis的情况下，无法显式指定某个Mapper使用哪一个sqlSessionFactory。<br>继续查询相关资料，发现Spring自2.0.1开始就提供了对动态数据源的支持，参见<a href="http://spring.io/blog/2007/01/23/dynamic-datasource-routing/" target="_blank" rel="external">Dynamic DataSource Routing</a>，咳咳，由于文章历史悠久，追溯至2007年，所以在笔者的项目中笔者对其进行了改进，思路依然与原文基本一致，只不过把文中基于XML的相关配置改为了我们项目中的基于Java Code的配置。</p>
+<a id="more"></a>
+<blockquote>
+<p>为了保护隐私，以下代码部分命名被修改</p>
+</blockquote>
+<ol>
+<li><p>定义多个数据源的枚举，本例中仅包含两个数据源</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Created by Poison on 8/15/2016.</div><div class="line"> */</div><div class="line"><span class="keyword">enum</span> DataSource &#123;</div><div class="line">    FIRST,</div><div class="line">    SECOND</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>定义DataSourceContextHolder</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Created by Poison on 8/15/2016.</div><div class="line"> */</div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">DataSourceContextHolder</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="keyword">private</span> <span class="keyword">static</span> ThreadLocal&lt;DataSource&gt; contextHolder = <span class="keyword">new</span> ThreadLocal&lt;&gt;();</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">setDataSource</span><span class="params">(DataSource dataSource)</span> </span>&#123;</div><div class="line">        contextHolder.set(dataSource);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">static</span> DataSource <span class="title">getDataSource</span><span class="params">()</span> </span>&#123;</div><div class="line">        <span class="keyword">return</span> contextHolder.get();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">    <span class="function"><span class="keyword">static</span> <span class="keyword">void</span> <span class="title">restoreToFirstDataSource</span><span class="params">()</span> </span>&#123;</div><div class="line">        contextHolder.set(DataSource.FIRST);</div><div class="line">    &#125;</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>定义RoutingDataSource</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Created by Poison on 8/15/2016.</div><div class="line"> */</div><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">RoutingDataSource</span> <span class="keyword">extends</span> <span class="title">AbstractRoutingDataSource</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="meta">@Override</span></div><div class="line">    <span class="function"><span class="keyword">protected</span> Object <span class="title">determineCurrentLookupKey</span><span class="params">()</span> </span>&#123;</div><div class="line">        <span class="keyword">return</span> DataSourceContextHolder.getDataSource();</div><div class="line">    &#125;</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>Datasource相关配置</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div></pre></td><td class="code"><pre><div class="line"><span class="meta">@Bean</span></div><div class="line"><span class="keyword">public</span> javax.sql.<span class="function">DataSource <span class="title">dataSourceForFirst</span><span class="params">()</span> </span>&#123;</div><div class="line">    HikariConfig hikariConfig = <span class="keyword">new</span> HikariConfig();</div><div class="line"></div><div class="line">    hikariConfig.setDataSourceClassName(getProperty(<span class="string">"jdbc.dataSourceClassName"</span>));</div><div class="line">    hikariConfig.setUsername(getProperty(<span class="string">"jdbc.username"</span>));</div><div class="line">    hikariConfig.setPassword(getProperty(<span class="string">"jdbc.password"</span>));</div><div class="line">    hikariConfig.setMinimumIdle(Integer.parseInt(getProperty(<span class="string">"jdbc.minimumIdle"</span>)));</div><div class="line">    hikariConfig.setMaximumPoolSize(Integer.parseInt(getProperty(<span class="string">"jdbc.maximumPoolSize"</span>)));</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"serverName"</span>, getProperty(<span class="string">"jdbc.serverName"</span>));</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"port"</span>, getProperty(<span class="string">"jdbc.port"</span>));</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"databaseName"</span>, getProperty(<span class="string">"jdbc.databaseName"</span>));</div><div class="line"></div><div class="line">    optimizeHikariConfigForMysql(hikariConfig);</div><div class="line"></div><div class="line">    <span class="keyword">return</span> <span class="keyword">new</span> HikariDataSource(hikariConfig);</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="function"><span class="keyword">private</span> <span class="keyword">void</span> <span class="title">optimizeHikariConfigForMysql</span><span class="params">(HikariConfig hikariConfig)</span> </span>&#123;</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"cachePrepStmts"</span>, <span class="keyword">true</span>);</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"prepStmtCacheSize"</span>, <span class="number">250</span>);</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"prepStmtCacheSqlLimit"</span>, <span class="number">2048</span>);</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="meta">@Bean</span></div><div class="line"><span class="keyword">public</span> javax.sql.<span class="function">DataSource <span class="title">dataSourceForSecond</span><span class="params">()</span> </span>&#123;</div><div class="line">    HikariConfig hikariConfig = <span class="keyword">new</span> HikariConfig();</div><div class="line"></div><div class="line">    hikariConfig.setDataSourceClassName(env.getProperty(<span class="string">"jdbc.second.dataSourceClassName"</span>));</div><div class="line">    hikariConfig.setUsername(getProperty(<span class="string">"jdbc.second.username"</span>));</div><div class="line">    hikariConfig.setPassword(getProperty(<span class="string">"jdbc.second.password"</span>));</div><div class="line">    hikariConfig.setMinimumIdle(Integer.parseInt(env.getProperty(<span class="string">"jdbc.second.minimumIdle"</span>)));</div><div class="line">    hikariConfig.setMaximumPoolSize(Integer.parseInt(env.getProperty(<span class="string">"jdbc.second.maximumPoolSize"</span>)));</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"serverName"</span>, getProperty(<span class="string">"jdbc.second.serverName"</span>));</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"port"</span>, getProperty(<span class="string">"jdbc.second.port"</span>));</div><div class="line">    hikariConfig.addDataSourceProperty(<span class="string">"databaseName"</span>, getProperty(<span class="string">"jdbc.second.databaseName"</span>));</div><div class="line"></div><div class="line">    optimizeHikariConfigForMysql(hikariConfig);</div><div class="line"></div><div class="line">    <span class="keyword">return</span> <span class="keyword">new</span> HikariDataSource(hikariConfig);</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="meta">@Bean</span></div><div class="line"><span class="keyword">public</span> javax.sql.<span class="function">DataSource <span class="title">dataSource</span><span class="params">()</span> </span>&#123;</div><div class="line"></div><div class="line">    RoutingDataSource routingDataSource = <span class="keyword">new</span> RoutingDataSource();</div><div class="line"></div><div class="line">    Map&lt;Object, Object&gt; targetDataSources = <span class="keyword">new</span> HashMap&lt;&gt;();</div><div class="line">    targetDataSources.put(DataSource.FIRST, dataSourceForFirst());</div><div class="line">    targetDataSources.put(DataSource.SECOND, dataSourceForSecond());</div><div class="line"></div><div class="line">    routingDataSource.setTargetDataSources(targetDataSources);</div><div class="line">    routingDataSource.setDefaultTargetDataSource(dataSourceForFirst());</div><div class="line"></div><div class="line">    <span class="keyword">return</span> routingDataSource;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="meta">@Bean</span></div><div class="line"><span class="function"><span class="keyword">public</span> SqlSessionFactory <span class="title">sqlSessionFactory</span><span class="params">()</span> <span class="keyword">throws</span> Exception </span>&#123;</div><div class="line">    SqlSessionFactoryBean sessionFactory = <span class="keyword">new</span> SqlSessionFactoryBean();</div><div class="line"></div><div class="line">    sessionFactory.setDataSource(dataSource());</div><div class="line">    sessionFactory.setTypeAliasesPackage(<span class="string">"me.tianshuang.domain"</span>);</div><div class="line">    sessionFactory.setTypeHandlers(<span class="keyword">new</span> TypeHandler[]&#123;<span class="keyword">new</span> LocalDateTimeTypeHandler()&#125;);</div><div class="line"></div><div class="line">    org.apache.ibatis.session.Configuration configuration = <span class="keyword">new</span> org.apache.ibatis.session.Configuration();</div><div class="line">    configuration.setMapUnderscoreToCamelCase(<span class="keyword">true</span>);</div><div class="line"></div><div class="line">    sessionFactory.setConfiguration(configuration);</div><div class="line"></div><div class="line">    <span class="keyword">return</span> sessionFactory.getObject();</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+<li><p>AOP相关配置</p>
+<figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Created by Poison on 8/15/2016.</div><div class="line"> */</div><div class="line"></div><div class="line"><span class="meta">@Aspect</span></div><div class="line"><span class="meta">@Component</span></div><div class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">AroundDataSource</span> </span>&#123;</div><div class="line"></div><div class="line">    <span class="meta">@Around</span>(<span class="string">"execution(* me.tianshuang.dao.second..*.*(..))"</span>)</div><div class="line">    <span class="function"><span class="keyword">public</span> Object <span class="title">doBasicProfiling</span><span class="params">(ProceedingJoinPoint pjp)</span> <span class="keyword">throws</span> Throwable </span>&#123;</div><div class="line">        DataSourceContextHolder.setDataSource(DataSource.SECOND);</div><div class="line">        Object result = pjp.proceed();</div><div class="line">        DataSourceContextHolder.restoreToFirstDataSource();</div><div class="line">        <span class="keyword">return</span> result;</div><div class="line">    &#125;</div><div class="line"></div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+</ol>
+<p>在对数据源进行路由的控制这方面，采用了AOP的思想，在我们的项目中，因为第二个数据源用的频率很低，所以为需要操作第二个数据源的Mapper单独建立了一个包（me.tianshuang.dao.second），在此包下的所有Mapper的方法在执行前将切换数据源为SECOND，执行完方法后又切回数据源First。</p>
+<p>以上只是切换数据源的一种方案，本文的关键就在于RoutingDataSource，而在哪里切换数据源，读者完全可根据自身项目需要选择最适合的方案，该例只是适合笔者所在项目的一个例子。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近项目中需要接入多个数据源，起初准备让Mybatis来进行数据源的动态选择，但查询Mybatis的相关文档后，未发现官方对多数据源的支持，并且笔者的项目中Mybatis的使用采用全注解的方式，如果实例化两个SqlSessionFactory，在全注解使用Mybatis的情况下，无法显式指定某个Mapper使用哪一个sqlSessionFactory。&lt;br&gt;继续查询相关资料，发现Spring自2.0.1开始就提供了对动态数据源的支持，参见&lt;a href=&quot;http://spring.io/blog/2007/01/23/dynamic-datasource-routing/&quot;&gt;Dynamic DataSource Routing&lt;/a&gt;，咳咳，由于文章历史悠久，追溯至2007年，所以在笔者的项目中笔者对其进行了改进，思路依然与原文基本一致，只不过把文中基于XML的相关配置改为了我们项目中的基于Java Code的配置。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+      <category term="Spring" scheme="https://tianshuang.me/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你看见的，不一定是真的</title>
+    <link href="https://tianshuang.me/%E4%BD%A0%E7%9C%8B%E8%A7%81%E7%9A%84%EF%BC%8C%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E7%9C%9F%E7%9A%84/index.html"/>
+    <id>https://tianshuang.me/你看见的，不一定是真的/index.html</id>
+    <published>2016-08-15T07:51:39.000Z</published>
+    <updated>2016-08-15T01:33:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>最近在使用Java读取Shell脚本执行后打印到控制台上的文本时，需要获取包含指定关键字的一行，当然，又随手写下了以下代码：<br><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">if</span> (line.contains(<span class="string">"读写失败总数"</span>)) &#123;</div><div class="line">    <span class="comment">// do something</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<p>测试时可无论如何也if判断条件都不为真啊，明明控制台打印出了以上中文，到底是哪里出了问题？转念一想，是被控制台这小子耍了啊，在使用XShell类似的软件连接远程服务器时，你看到的输出不是控制台原生的输出，在本例中，看到输出了中文，实则是XShell帮我们进行了相关转码，随即，将以上中文转为Unicode后再次进行测试：<br><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">if</span> (line.contains(<span class="string">"\u8bfb\u5199\u5931\u8d25\u603b\u6570"</span>)) &#123;</div><div class="line">    <span class="comment">// do something</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<p>成功通过测试。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;最近在使用Java读取Shell脚本执行后打印到控制台上的文本时，需要获取包含指定关键字的一行，当然，又随手写下了以下代码：&lt;br&gt;&lt;figure class=&quot;highli
+    
+    </summary>
+    
+    
+      <category term="Shell" scheme="https://tianshuang.me/tags/Shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一起while引发的惨剧</title>
+    <link href="https://tianshuang.me/%E8%AE%B0%E4%B8%80%E8%B5%B7while%E5%BC%95%E5%8F%91%E7%9A%84%E6%83%A8%E5%89%A7/index.html"/>
+    <id>https://tianshuang.me/记一起while引发的惨剧/index.html</id>
+    <published>2016-08-15T07:51:09.000Z</published>
+    <updated>2017-02-04T03:50:14.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>最近在使用Java调用Shell脚本时，需要获取Shell脚本执行后输出到控制台的文本，然后随手就写出了以下代码（本着尽量使用第三方类库不自己造轮子的思想）…<br><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">while</span> (StringUtils.isNotBlank(line = stdInput.readLine())) &#123;</div><div class="line">    lines.add(line);</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<a id="more"></a>
+<p>跑测试时可怎么也读不到Shell脚本的输出啊，尼玛，检查万分，梦中惊醒，这可是while啊，我用StringUtils.isNotBlank搞毛线啊，读到一行第一行为空的就不继续读了，这里的终止条件应该为读到流结束（即readLine返回为null）啊，果断更改代码为：<br><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">while</span> ((line = stdInput.readLine()) != <span class="keyword">null</span>) &#123;</div><div class="line">    lines.add(line);</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<p>更改后一切正常…代码写多了后经常不假思索就敲了下去，这次就是一个教训，谨记。<br><figure class="highlight java"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/**</span></div><div class="line"> * Reads a line of text.  A line is considered to be terminated by any one</div><div class="line"> * of a line feed ('\n'), a carriage return ('\r'), or a carriage return</div><div class="line"> * followed immediately by a linefeed.</div><div class="line"> *</div><div class="line"> * <span class="doctag">@return</span>     A String containing the contents of the line, not including</div><div class="line"> *             any line-termination characters, or null if the end of the</div><div class="line"> *             stream has been reached</div><div class="line"> *</div><div class="line"> * <span class="doctag">@exception</span>  IOException  If an I/O error occurs</div><div class="line"> *</div><div class="line"> * <span class="doctag">@see</span> java.nio.file.Files#readAllLines</div><div class="line"> */</div><div class="line"><span class="function"><span class="keyword">public</span> String <span class="title">readLine</span><span class="params">()</span> <span class="keyword">throws</span> IOException </span>&#123;</div><div class="line">    <span class="keyword">return</span> readLine(<span class="keyword">false</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<blockquote>
+<p>or null if the end of the stream has been reached</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近在使用Java调用Shell脚本时，需要获取Shell脚本执行后输出到控制台的文本，然后随手就写出了以下代码（本着尽量使用第三方类库不自己造轮子的思想）…&lt;br&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;2&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;3&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;while&lt;/span&gt; (StringUtils.isNotBlank(line = stdInput.readLine())) &amp;#123;&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;    lines.add(line);&lt;/div&gt;&lt;div class=&quot;line&quot;&gt;&amp;#125;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java Streams</title>
+    <link href="https://tianshuang.me/Java-Streams/index.html"/>
+    <id>https://tianshuang.me/Java-Streams/index.html</id>
+    <published>2016-08-03T08:35:03.000Z</published>
+    <updated>2016-08-03T17:30:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote><p>In addition to using streams for computation, you might want to consider using streams to return aggregates from API methods, where previously you might have returned an array or collection. Returning a stream is often more efficient, since you don’t have to copy all the data into a new array or collection. Returning a stream is also often more flexible; the form of collection the library chooses to return might not be what the caller needs, and it’s easy to convert a stream into any collection type. (The main situation in which returning a stream is inappropriate, and falling back to returning a materialized collection is better, is when the caller would need to see a consistent snapshot of the state at a point in time.)</p>
+<footer><strong>Brian Goetz</strong><cite><a href="http://www.ibm.com/developerworks/java/library/j-java-streams-1-brian-goetz/index.html" target="_blank" rel="external">An introduction to the java.util.stream library</a></cite></footer></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;blockquote&gt;&lt;p&gt;In addition to using streams for computation, you might want to consider us
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="https://tianshuang.me/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git notes</title>
+    <link href="https://tianshuang.me/Git-notes/index.html"/>
+    <id>https://tianshuang.me/Git-notes/index.html</id>
+    <published>2016-07-07T02:03:20.000Z</published>
+    <updated>2016-08-03T00:31:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>git submodule init<br>git submodule update</p>
+<p>Permanently authenticating with Git repositories can use the .netrc file</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;git submodule init&lt;br&gt;git submodule update&lt;/p&gt;
+&lt;p&gt;Permanently authenticating with Git r
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="https://tianshuang.me/tags/Git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello, 2016!</title>
+    <link href="https://tianshuang.me/Hello-2016/index.html"/>
+    <id>https://tianshuang.me/Hello-2016/index.html</id>
+    <published>2016-02-07T17:30:02.000Z</published>
+    <updated>2017-02-04T03:48:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center">风险越高，收益越大</blockquote>
+
+<p>新年，已经没了小时候的些许期待，年复一年。</p>
+<p>回顾2015，专业技能方面稳步增长，但感觉驱动自己向前的力量没以前那么强了，可能已经渐渐厌倦大学生活，破茧待出，心里渴望急需闯进外面的世界。春节前考过了科目三，2016终于不会再在练车上消耗时间。白条和花呗真不是好东西（才把2015欠的债还清的我会乱说？），嗯，我恨不得它把我的额度都给收回去。</p>
+<a id="more"></a>
+<p>新的一年，首要的事就是对自己的技术栈查缺补漏，夯实基础，毕竟也就这个学期了，接下来就要面临校招了。玩手机时少花时间在Twitter和Weibo上，刷多了你会发现这国家真是没救了，但又改变不了什么。把时间迁移到多看阅读（此处非广告）上，利用玩手机的时间多看看出版物书籍，这几年看过的纸质书都堆了好几摞了，不过大部分是技术书，但现在却在慢慢看一些人文方面的书籍，不能把自己完全困在技术圈子里，毕竟技术不是生活的全部。今年下半年应该会搬回自己的宿舍，大一住了一年宿舍，由于偶然的机会结识了核自院的老师，大二大三住在教学楼里，虽然和另外一位朋友一起，但依旧非常安静，特别是晚自习结束后，整座楼寂静无声，有空调有网并且从不断电，正是这个环境给了我自由学习探索的空间，没人打扰，可以自己决定工作到夜间什么时刻，在这里学习的效率也是非常高的，完成了自己知识体系从点到面的一些积累，在这个过程中就好像一扇扇门依次打开，哦，天呐，我敢打赌，这用户体验真是极好的，就像隔壁苏珊婶婶做的苹果派一样。</p>
+<p>另附在家乡这个小县城中饭桌上屡次出现的一些有趣的对话：入党没啊？怎么不入党啊？入了以后好当官啊。考研不啊？咋不考研呢？不考研怎么找工作啊？</p>
+<p>新年快乐，每个人都有自己的故事。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;风险越高，收益越大&lt;/blockquote&gt;
+
+&lt;p&gt;新年，已经没了小时候的些许期待，年复一年。&lt;/p&gt;
+&lt;p&gt;回顾2015，专业技能方面稳步增长，但感觉驱动自己向前的力量没以前那么强了，可能已经渐渐厌倦大学生活，破茧待出，心里渴望急需闯进外面的世界。春节前考过了科目三，2016终于不会再在练车上消耗时间。白条和花呗真不是好东西（才把2015欠的债还清的我会乱说？），嗯，我恨不得它把我的额度都给收回去。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于此博客</title>
+    <link href="https://tianshuang.me/%E5%85%B3%E4%BA%8E%E6%AD%A4%E5%8D%9A%E5%AE%A2/index.html"/>
+    <id>https://tianshuang.me/关于此博客/index.html</id>
+    <published>2016-01-20T20:43:28.000Z</published>
+    <updated>2017-03-03T14:40:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>折腾两三天，总算把这个博客搭建起来了。之前大二在CSDN写过一段时间的博客，大多数都是关于技术细节的，后来觉得没有多大意义（好吧，其实是出于个人审美的原因），于是又陆续删除了一些，仅留下了几篇（仅仅留作怀念吧）。一直都有自己搭建博客的想法，想过自己动手码个博客，但无奈自己主要做Java的相关开发，前端不是很熟悉，无法做到心里想象中的前端效果，遂放弃自己动手码的想法。看到许多人用Hexo，于是Google了下相关资料，静态，再看看主题，也不错，遂决定就是Hexo了。随着阅历的增长，在此博客不会记录更多关于技术细节的东西了，技术上的东西更多只是点到为止。接下来说说此博客搭建的相关技术吧。</p>
+<a id="more"></a>
+<ul>
+<li><a href="https://hexo.io/" target="_blank" rel="external">Hexo</a><ul>
+<li>A fast, simple &amp; powerful blog framework.</li>
+</ul>
+</li>
+<li><a href="https://m.do.co/c/5641c4b906cb" target="_blank" rel="external">DigitalOcean</a><ul>
+<li>一来是国内主机需要备案，灰常麻烦，又是照相又是寄核验单，而且还要20天左右，笔者有台阿里云的主机就经历过这样的摧残，原因大家都懂的。二来是… 当然是GitHub的学生认证送了50刀的DigitalOcean促销码啊，别人都送了，能不用吗？三来是… 国外主机可以用来科学…</li>
+</ul>
+</li>
+<li><a href="https://www.namecheap.com/" target="_blank" rel="external">Namecheap</a><ul>
+<li>也是GitHub的学生认证，赠送了一年的.me域名，果断就把tianshuang.me拿下，如果不出意外，这辈子就用这域名了。由于众所周知的原因，Namecheap的域名解析在国内经常抽风，无奈将DNS解析改为<a href="https://www.dnspod.cn/" target="_blank" rel="external">DNSPod</a>。</li>
+</ul>
+</li>
+<li><a href="https://www.nginx.com/" target="_blank" rel="external">Nginx</a><ul>
+<li>负载均衡，反向代理，并且之前项目中也用过，就顺手用上了，对于这个博客，反向代理仅用于admin插件进行后台编辑文章这部分。</li>
+</ul>
+</li>
+<li><a href="https://www.gogetssl.com/" target="_blank" rel="external">GOGETSSL</a><ul>
+<li>别人推荐，并且本博客后台需要登录，要是不上SSL能行？</li>
+</ul>
+</li>
+</ul>
+<p>嗯，暂时想到的就这些，以后想到再写吧。</p>
+<h3 id="2017-02-20-更新日志"><a href="#2017-02-20-更新日志" class="headerlink" title="2017-02-20 更新日志"></a>2017-02-20 更新日志</h3><p>时隔一年，根据后台的访客数据，我发现访客中的大多数都会来看一看这一篇。今日状态不佳，望着外面氤氲的天空，上午写了一点点代码，想起这篇博客，于是来更新一下。</p>
+<p>上面的部分是16年博客建立之初的环境，由于主机在境外，由于众所周知的原因，慢是一种常态，更严重的是有时根本无法连通，开始我只是把部分图片资源转移到了七牛上，再后面直接把这个域名直接加速，后来学生主机到期，就把静态博客移到了Github Pages 上，但是怎么弄主机都在境外，只要一旦没击中缓存，就要从境外主机回源，速度不可直视。趁这几天有空，将blog挪一下窝，一切为了速度，首先将DNS解析更换为<a href="https://www.cloudxns.net/" target="_blank" rel="external">CloudXNS</a>，然后将blog文件放至阿里云OSS，写了个增量更新的脚本，还是一样的一键发布，再搭配阿里云的CDN，之所以选阿里云是因为之前用七牛的CDN时，七牛那边暂不支持HTTP到HTTPS的301/302重定向，七牛的技术给的答复也只是支持的时候会通知，腾讯云的CDN也暂时不支持，而阿里云这边是支持的，之所以一定要HTTPS，是因为实在受不了右下角经常被插入小广告。暂时就做以上的调整，先试试效果。</p>
+<h3 id="2017-02-25-更新日志"><a href="#2017-02-25-更新日志" class="headerlink" title="2017-02-25 更新日志"></a>2017-02-25 更新日志</h3><p>将博客增量上传到OSS的Python脚本上传到了Github上，需要的朋友自取，<a href="https://github.com/tianshuang/aliyun-oss-sync" target="_blank" rel="external">aliyun-oss-sync</a>，因为使用阿里云CDN加速OSS之后，OSS中的文件变化后CDN会自动刷新相关文件，所以每次只要UPDATE到OSS即完成发布。当然，笔者的这个博客小站全是静态请求并且量也很小，就没必要上负载均衡再灰度发布了，暂时就先这样吧。</p>
+<h3 id="2017-03-03-更新日志"><a href="#2017-03-03-更新日志" class="headerlink" title="2017-03-03 更新日志"></a>2017-03-03 更新日志</h3><p>因为用户直接在浏览器输入 tianshuang.me 的话，浏览器默认使用HTTP协议访问，server 端返回 301/302 让客户端重定向到 <a href="https://tianshuang.me/">https://tianshuang.me/</a> ，而在这一次请求及响应依然是明文传输的，所以仍然存在被中间人攻击的可能。为了尽可能降低这种可能性，我们希望配置 Strict-Transport-Security 这个header ，这里有一篇文章讲得比较清楚，参见 <a href="http://insights.thoughtworkers.org/detailed-hsts/" target="_blank" rel="external">HSTS详解</a>，而本站使用了阿里云的CDN，CDN的控制面板里可以手动配置HTTP header，但阿里云仅开放了部分 header 供用户手动配置，故已经提交了工单，希望开放此 Strict-Transport-Security header 供用户手动配置。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;折腾两三天，总算把这个博客搭建起来了。之前大二在CSDN写过一段时间的博客，大多数都是关于技术细节的，后来觉得没有多大意义（好吧，其实是出于个人审美的原因），于是又陆续删除了一些，仅留下了几篇（仅仅留作怀念吧）。一直都有自己搭建博客的想法，想过自己动手码个博客，但无奈自己主要做Java的相关开发，前端不是很熟悉，无法做到心里想象中的前端效果，遂放弃自己动手码的想法。看到许多人用Hexo，于是Google了下相关资料，静态，再看看主题，也不错，遂决定就是Hexo了。随着阅历的增长，在此博客不会记录更多关于技术细节的东西了，技术上的东西更多只是点到为止。接下来说说此博客搭建的相关技术吧。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://tianshuang.me/tags/Hexo/"/>
+    
+      <category term="Nginx" scheme="https://tianshuang.me/tags/Nginx/"/>
+    
+      <category term="SSL" scheme="https://tianshuang.me/tags/SSL/"/>
+    
+  </entry>
+  
+</feed>
