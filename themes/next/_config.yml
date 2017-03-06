@@ -288,10 +288,10 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: wanglong001.github.io
+#duoshuo_shortname: wanglong001.github.io
 
 # Disqus
-#disqus_shortname:
+disqus_shortname: wanglong001
 
 # Hypercomments
 #hypercomments_id:
