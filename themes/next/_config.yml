@@ -137,6 +137,7 @@ font:
 
 social:
    GitHub: https://github.com/wanglong001
+   Email: 406134592@qq.com
 
 
 # Social Links Icons
@@ -154,6 +155,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
+  Email: email
 
 
 # Sidebar Avatar
@@ -291,8 +293,7 @@ mathjax:
 #duoshuo_shortname: wanglong001.github.io
 
 # Disqus
-disqus: wanglong001
-disqus_shortname: wanglong001
+#disqus_shortname: wanglong001
 
 # Hypercomments
 #hypercomments_id:

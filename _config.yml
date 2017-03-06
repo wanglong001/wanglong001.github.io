@@ -66,8 +66,6 @@ pagination_dir: page
 #theme: landscape
 theme: next
 
-# Disqus
-disqus_shortname: wanglong001
 
 
 # Deployment
