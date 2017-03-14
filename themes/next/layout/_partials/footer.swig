@@ -25,9 +25,4 @@
   </a>
 </div>
 
-<div class="theme-info" style="display:hidden">
-	<span id="busuanzi_container_site_uv">
-     | &nbsp; Total visited <span id="busuanzi_value_site_uv"></span> times.
-	</span>
-</div>
 {% endif %}
