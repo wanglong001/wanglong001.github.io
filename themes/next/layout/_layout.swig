@@ -82,6 +82,10 @@
   {% if theme.exturl %}
     {% include '_scripts/third-party/exturl.swig' %}
   {% endif %}
-
+	
+  {% if theme.leancloud_visitors.enable %}
+    {% include '_scripts/lean-analytics.swig' %}
+  {% endif %}
+	
 </body>
 </html>
