@@ -1,3 +1,6 @@
+<script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+
 {% macro render(post, is_index, post_extra_class) %}
 
   {% set headlessPost = Array.prototype.indexOf.call(['quote', 'picture'], post.type) > -1 %}
@@ -229,7 +232,8 @@
           {% endif %}
 
 		  {% if theme.leancloud_visitors.enable %}
-			&nbsp; | &nbsp;
+			&nbsp; | <span id="busuanzi_container_site_pv">
+ <span id="busuanzi_value_site_pv"></span> 
 			<span id="{{ url_for(post.path) }}"class="leancloud_visitors" data-flag-title="{{ post.title }}">
 					 &nbsp;{{__('post.visitors')}}
 					</span>
