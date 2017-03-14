@@ -179,10 +179,11 @@
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
-               {% if theme.post_meta.item_text %}
-                 <span class="post-meta-item-text">{{__('post.visitors')}} </span>
-               {% endif %}
-                 <span class="leancloud-visitors-count"></span>
+               <span id="busuanzi_container_site_pv">
+ <span id="busuanzi_value_site_pv"></span> 
+			<span id="{{ url_for(post.path) }}"class="leancloud_visitors" data-flag-title="{{ post.title }}">
+					 &nbsp;{{__('post.visitors')}}
+					</span>
              </span>
           {% endif %}
 
@@ -231,13 +232,7 @@
               </div>
           {% endif %}
 
-		  {% if theme.leancloud_visitors.enable %}
-			&nbsp; | <span id="busuanzi_container_site_pv">
- <span id="busuanzi_value_site_pv"></span> 
-			<span id="{{ url_for(post.path) }}"class="leancloud_visitors" data-flag-title="{{ post.title }}">
-					 &nbsp;{{__('post.visitors')}}
-					</span>
-			{% endif %}
+		 
 		  
         </div>
       </header>
