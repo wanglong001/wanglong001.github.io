@@ -71,7 +71,7 @@
 <link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="Hexo, NexT" />
+  <meta name="keywords" content="eclipse,maven,修改,项目名," />
 
 
 
@@ -87,12 +87,37 @@
 
 
 
-<meta property="og:type" content="website">
-<meta property="og:title" content="Long Blog">
-<meta property="og:url" content="http://yoursite.com/index.html">
+<meta name="description" content="一、
+比较简单的方法：   右键工程： Refactor-&amp;gt;Rename, 或者按F2，修改名称
+
+手动更改目录配置：
+
+
+找到项目文件夹，修改项目根目录的名称
+打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称12345678910 &amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-">
+<meta property="og:type" content="article">
+<meta property="og:title" content="彻底修改Eclipse中项目名称">
+<meta property="og:url" content="http://yoursite.com/2017/03/19/彻底修改Eclipse中项目名称/index.html">
 <meta property="og:site_name" content="Long Blog">
+<meta property="og:description" content="一、
+比较简单的方法：   右键工程： Refactor-&amp;gt;Rename, 或者按F2，修改名称
+
+手动更改目录配置：
+
+
+找到项目文件夹，修改项目根目录的名称
+打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称12345678910 &amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-">
+<meta property="og:updated_time" content="2017-03-18T18:23:59.152Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Long Blog">
+<meta name="twitter:title" content="彻底修改Eclipse中项目名称">
+<meta name="twitter:description" content="一、
+比较简单的方法：   右键工程： Refactor-&amp;gt;Rename, 或者按F2，修改名称
+
+手动更改目录配置：
+
+
+找到项目文件夹，修改项目根目录的名称
+打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称12345678910 &amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-">
 
 
 
@@ -120,13 +145,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/"/>
+  <link rel="canonical" href="http://yoursite.com/2017/03/19/彻底修改Eclipse中项目名称/"/>
 
 
 
 
 
-  <title> Long Blog </title>
+  <title> 彻底修改Eclipse中项目名称 | Long Blog </title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="en">
@@ -151,9 +176,7 @@
     
   
 
-  <div class="container one-collumn sidebar-position-left 
-   page-home 
- ">
+  <div class="container one-collumn sidebar-position-left page-post-detail ">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -246,9 +269,9 @@
         <div class="content-wrap">
           <div id="content" class="content">
             
-  <section id="posts" class="posts-expand">
+
+  <div id="posts" class="posts-expand">
     
-      
 
   
 
@@ -278,10 +301,7 @@
             
             
               
-                
-                <a class="post-title-link" href="/2017/03/19/彻底修改Eclipse中项目名称/" itemprop="url">
-                  彻底修改Eclipse中项目名称
-                </a>
+                彻底修改Eclipse中项目名称
               
             
           </h1>
@@ -368,216 +388,91 @@
       
 
       
-        
-          
-          一、
-比较简单的方法：   右键工程： Refactor-&gt;Rename, 或者按F2，修改名称
+        <h3 id="一、"><a href="#一、" class="headerlink" title="一、"></a>一、</h3><ol>
+<li><h4 id="比较简单的方法："><a href="#比较简单的方法：" class="headerlink" title="比较简单的方法："></a>比较简单的方法：</h4><p>   右键工程： Refactor-&gt;Rename, 或者按F2，修改名称</p>
+</li>
+<li><h4 id="手动更改目录配置："><a href="#手动更改目录配置：" class="headerlink" title="手动更改目录配置："></a>手动更改目录配置：</h4></li>
+</ol>
+<ul>
+<li>找到项目文件夹，修改项目根目录的名称</li>
+<li>打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"> &lt;?xml version=<span class="string">"1.0"</span> encoding=<span class="string">"UTF-8"</span>?&gt;&lt;project-modules id=<span class="string">"moduleCoreId"</span> project-version=<span class="string">"1.5.0"</span>&gt;</div><div class="line">    &lt;wb-module deploy-name=<span class="string">"项目名"</span>&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/WEB-INF/classes"</span> <span class="built_in">source</span>-path=<span class="string">"/src/main/java"</span>/&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/"</span> <span class="built_in">source</span>-path=<span class="string">"/target/m2e-wtp/web-resources"</span>/&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/"</span> <span class="built_in">source</span>-path=<span class="string">"/src/main/webapp"</span> tag=<span class="string">"defaultRootSource"</span>/&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/WEB-INF/classes"</span> <span class="built_in">source</span>-path=<span class="string">"/src/main/resources"</span>/&gt;</div><div class="line">        &lt;property name=<span class="string">"java-output-path"</span> value=<span class="string">"/项目名/target/classes"</span>/&gt;</div><div class="line">        &lt;property name=<span class="string">"项目名"</span> value=<span class="string">"collector"</span>/&gt;</div><div class="line">    &lt;/wb-module&gt;</div><div class="line">&lt;/project-modules&gt;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<p><em>deploy-name：配置到web server时显示的组件名称</em><br><em>java-output-path：类编译文件的输出位置</em><br><em>context-root：部署目录</em></p>
+<h3 id="二、【如果你是手动更改目录，可以忽略次步骤】"><a href="#二、【如果你是手动更改目录，可以忽略次步骤】" class="headerlink" title="二、【如果你是手动更改目录，可以忽略次步骤】"></a>二、【如果你是手动更改目录，可以忽略次步骤】</h3><ul>
+<li>项目右键–&gt; Properties –&gt; Web Project Settings –&gt; Context root</li>
+</ul>
+<h3 id="三、修改项目目录下-project-文件"><a href="#三、修改项目目录下-project-文件" class="headerlink" title="三、修改项目目录下.project 文件"></a>三、修改项目目录下.project 文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&lt;?xml version=<span class="string">"1.0"</span> encoding=<span class="string">"UTF-8"</span>?&gt;</div><div class="line">&lt;projectDescription&gt;</div><div class="line">	&lt;name&gt;项目名&lt;/name&gt;</div><div class="line">	&lt;comment&gt;&lt;/comment&gt;</div><div class="line">	.....</div><div class="line">&lt;projectDescription&gt;</div></pre></td></tr></table></figure>
+<p><strong>一般的项目到这里就完成了</strong></p>
+<h3 id="四、maven项目：更改pom-xml配置【不是maven项目请忽略】"><a href="#四、maven项目：更改pom-xml配置【不是maven项目请忽略】" class="headerlink" title="四、maven项目：更改pom.xml配置【不是maven项目请忽略】"></a>四、maven项目：更改pom.xml配置【不是maven项目请忽略】</h3><p>打开 pom.xml 文件，修改以下三项配置，xxx 就是原项目名</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&lt;artifactId&gt;项目名&lt;/artifactId&gt;</div><div class="line">&lt;name&gt;项目名 Maven Webapp&lt;/name&gt;</div><div class="line">&lt;finalName&gt;项目名&lt;/finalName&gt;</div></pre></td></tr></table></figure>
 
-手动更改目录配置：
-
-
-找到项目文件夹，修改项目根目录的名称
-打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名
-          ...
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2017/03/19/彻底修改Eclipse中项目名称/#more" rel="contents">
-              Read more &raquo;
-            </a>
-          </div>
-          <!--/noindex-->
-        
       
     </div>
 
     <div>
       
+        
+
+      
     </div>
 
     <div>
+      
+        
+
       
     </div>
 
 
     <footer class="post-footer">
       
-
-      
-
-      
-
-      
-      
-        <div class="post-eof"></div>
-      
-    </footer>
-  </article>
-
-
-    
-      
-
-  
-
-  
-  
-  
-
-  <article class="post post-type-archives " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/03/18/hello-world/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="name" content="long">
-      <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/long.jpg">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="Long Blog">
-    </span>
-
-    
-      <header class="post-header">
-
-        
-        
-          <h1 class="post-title" itemprop="name headline">
-            
-            
-              
-                
-                <a class="post-title-link" href="/2017/03/18/hello-world/" itemprop="url">
-                  Hello World
-                </a>
-              
-            
-          </h1>
-        
-
-        <div class="post-meta">
-          <span class="post-time">
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-calendar-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">Posted on</span>
-              
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-03-18T13:32:37+08:00">
-                2017-03-18
-              </time>
-            
-
-            
-
-            
-          </span>
-
+        <div class="post-tags">
           
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">In</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/hexo/" itemprop="url" rel="index">
-                    <span itemprop="name">hexo</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
+            <a href="/tags/eclipse/" rel="tag"># eclipse</a>
           
-
+            <a href="/tags/maven/" rel="tag"># maven</a>
           
-            
+            <a href="/tags/修改/" rel="tag"># 修改</a>
           
-
+            <a href="/tags/项目名/" rel="tag"># 项目名</a>
           
-          
-             <span id="/2017/03/18/hello-world/" class="leancloud_visitors" data-flag-title="Hello World">
-               <span class="post-meta-divider">|</span>
-               <span class="post-meta-item-icon">
-                 <i class="fa fa-eye"></i>
-               </span>
-               <span id="busuanzi_container_site_pv">
- <span id="busuanzi_value_site_pv"></span> 
-			<span id="/2017/03/18/hello-world/"class="leancloud_visitors" data-flag-title="Hello World">
-					 &nbsp;Views
-					</span>
-             </span>
-          
-
-          
-
-          
-
-          
-
-		 
-		  
         </div>
-      </header>
-    
-
-
-    <div class="post-body" itemprop="articleBody">
-
-      
       
 
       
         
-          
-          Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in 
-          ...
-          <!--noindex-->
-          <div class="post-button text-center">
-            <a class="btn" href="/2017/03/18/hello-world/#more" rel="contents">
-              Read more &raquo;
-            </a>
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/2017/03/18/hello-world/" rel="next" title="Hello World">
+                <i class="fa fa-chevron-left"></i> Hello World
+              </a>
+            
           </div>
-          <!--/noindex-->
-        
-      
-    </div>
 
-    <div>
-      
-    </div>
+          <span class="post-nav-divider"></span>
 
-    <div>
-      
-    </div>
-
-
-    <footer class="post-footer">
+          <div class="post-nav-prev post-nav-item">
+            
+          </div>
+        </div>
       
 
       
-
-      
-
-      
-      
-        <div class="post-eof"></div>
       
     </footer>
   </article>
 
 
-    
-  </section>
 
-  
+    <div class="post-spread">
+      
+    </div>
+  </div>
 
           
           </div>
@@ -585,6 +480,10 @@
 
 
           
+  <div class="comments" id="comments">
+    
+  </div>
+
 
         </div>
         
@@ -604,8 +503,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            Overview
+          </li>
+        </ul>
+      
 
-      <section class="site-overview sidebar-panel sidebar-panel-active">
+      <section class="site-overview sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="/images/long.jpg"
@@ -687,6 +595,22 @@
 
       </section>
 
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一、"><span class="nav-number">1.</span> <span class="nav-text">一、</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#比较简单的方法："><span class="nav-number">1.1.</span> <span class="nav-text">比较简单的方法：</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#手动更改目录配置："><span class="nav-number">1.2.</span> <span class="nav-text">手动更改目录配置：</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二、【如果你是手动更改目录，可以忽略次步骤】"><span class="nav-number">2.</span> <span class="nav-text">二、【如果你是手动更改目录，可以忽略次步骤】</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三、修改项目目录下-project-文件"><span class="nav-number">3.</span> <span class="nav-text">三、修改项目目录下.project 文件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#四、maven项目：更改pom-xml配置【不是maven项目请忽略】"><span class="nav-number">4.</span> <span class="nav-text">四、maven项目：更改pom.xml配置【不是maven项目请忽略】</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
       
 
       
@@ -798,6 +722,10 @@
   
 
   
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.0"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.0"></script>
+
+
 
   
 
