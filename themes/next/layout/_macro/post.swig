@@ -178,8 +178,7 @@
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
-             <span id="{{ url_for(post.path) }}"class="leancloud_visitors"  data-flag-title="{{ post.title }}">
-             &nbsp;
+             <span id="{{ url_for(post.path) }}" class="leancloud_visitors"  data-flag-title="{{ post.title }}">
             </span>
 			{{__('post.visitors')}}
           {% endif %}
