@@ -16,7 +16,7 @@ function showTime(Counter) {
 				}
 				for (var i = 0; i < results.length; i++) {
 					var object = results[i];
-					var content = object.get('time');
+					var content = object.get('time') + 1;
 					$(document.getElementById(url)).text(content);
 				}
 			},
@@ -42,7 +42,7 @@ function addCount(Counter) {
 				counter.increment("time");
 				counter.save(null, {
 					success: function(counter) {
-						var content =  counter.get('time');
+						var content =  counter.get('time') + 1;
 						$(document.getElementById(url)).text(content);
 					},
 					error: function(counter, error) {
