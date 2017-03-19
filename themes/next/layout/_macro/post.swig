@@ -178,9 +178,9 @@
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
-             <span id="{{ url_for(post.path) }}" class="leancloud_visitors" data-flag-title="{{ post.title }}">
-                &nbsp;{{__('post.visitors')}}
-             </span>
+             <span id="{{ url_for(post.path) }}"class="leancloud_visitors"  data-flag-title="{{ post.title }}">
+             &nbsp;{{__('post.visitors')}}
+            </span>
           {% endif %}
 
           {% if not is_index and theme.busuanzi_count.enable and theme.busuanzi_count.page_pv %}
