@@ -25,4 +25,8 @@
   </a>
 </div>
 
+<span id="busuanzi_container_site_pv">
+  &nbsp; | &nbsp;Total visited <span id="busuanzi_value_site_pv"></span> times.
+</span>
+
 {% endif %}
