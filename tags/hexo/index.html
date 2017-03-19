@@ -715,6 +715,8 @@ function addCount(Counter) {
 				counter.save(null, {
 					success: function(counter) {
 						var content =  counter.get('time') + ' ' + $(document.getElementById(url)).text();
+						alert(content);
+						alert(counter.get('time'));
 						$(document.getElementById(url)).text(content);
 					},
 					error: function(counter, error) {
