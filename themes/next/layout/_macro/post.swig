@@ -179,11 +179,8 @@
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
-               <span id="busuanzi_container_site_pv">
- <span id="busuanzi_value_site_pv"></span> 
-			<span id="{{ url_for(post.path) }}"class="leancloud_visitors" data-flag-title="{{ post.title }}">
-					 &nbsp;{{__('post.visitors')}}
-					</span>
+                &nbsp;{{__('post.visitors')}}
+				
              </span>
           {% endif %}
 
