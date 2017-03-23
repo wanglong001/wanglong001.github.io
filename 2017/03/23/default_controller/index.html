@@ -71,7 +71,7 @@
 <link href="/css/main.css?v=5.1.0" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="eclipse,maven,修改,项目名," />
+  <meta name="keywords" content="PHP,default_controller," />
 
 
 
@@ -87,37 +87,19 @@
 
 
 
-<meta name="description" content="一、
-比较简单的方法：   右键工程： Refactor-&amp;gt;Rename, 或者按F2，修改名称
-
-手动更改目录配置：
-
-
-找到项目文件夹，修改项目根目录的名称
-打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称12345678910 &amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-">
+<meta name="description" content="闲谈前几天，我的室友发现了一个问题：CI框架的Router.php文件的default_controller设置为application\controllers文件下的 一级PHP文件名 就可以，设置为 目录/Controller名 就 404，如目录结构：
+123456789----application   |   ----controllers       |       -----admi">
 <meta property="og:type" content="article">
-<meta property="og:title" content="彻底修改Eclipse中项目名称">
-<meta property="og:url" content="http://yoursite.com/2017/03/19/彻底修改Eclipse中项目名称/index.html">
+<meta property="og:title" content="CI框架 default_controller 如何设置为：'目录/Controller'">
+<meta property="og:url" content="http://yoursite.com/2017/03/23/default_controller/index.html">
 <meta property="og:site_name" content="Long Blog">
-<meta property="og:description" content="一、
-比较简单的方法：   右键工程： Refactor-&amp;gt;Rename, 或者按F2，修改名称
-
-手动更改目录配置：
-
-
-找到项目文件夹，修改项目根目录的名称
-打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称12345678910 &amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-">
-<meta property="og:updated_time" content="2017-03-18T18:23:59.152Z">
+<meta property="og:description" content="闲谈前几天，我的室友发现了一个问题：CI框架的Router.php文件的default_controller设置为application\controllers文件下的 一级PHP文件名 就可以，设置为 目录/Controller名 就 404，如目录结构：
+123456789----application   |   ----controllers       |       -----admi">
+<meta property="og:updated_time" content="2017-03-23T05:06:40.242Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="彻底修改Eclipse中项目名称">
-<meta name="twitter:description" content="一、
-比较简单的方法：   右键工程： Refactor-&amp;gt;Rename, 或者按F2，修改名称
-
-手动更改目录配置：
-
-
-找到项目文件夹，修改项目根目录的名称
-打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称12345678910 &amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-">
+<meta name="twitter:title" content="CI框架 default_controller 如何设置为：'目录/Controller'">
+<meta name="twitter:description" content="闲谈前几天，我的室友发现了一个问题：CI框架的Router.php文件的default_controller设置为application\controllers文件下的 一级PHP文件名 就可以，设置为 目录/Controller名 就 404，如目录结构：
+123456789----application   |   ----controllers       |       -----admi">
 
 
 
@@ -145,13 +127,13 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/2017/03/19/彻底修改Eclipse中项目名称/"/>
+  <link rel="canonical" href="http://yoursite.com/2017/03/23/default_controller/"/>
 
 
 
 
 
-  <title> 彻底修改Eclipse中项目名称 | Long Blog </title>
+  <title> CI框架 default_controller 如何设置为：'目录/Controller' | Long Blog </title>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="en">
@@ -280,7 +262,7 @@
   
 
   <article class="post post-type-archives " itemscope itemtype="http://schema.org/Article">
-    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/03/19/彻底修改Eclipse中项目名称/">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/03/23/default_controller/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="long">
@@ -301,7 +283,7 @@
             
             
               
-                彻底修改Eclipse中项目名称
+                CI框架 default_controller 如何设置为：'目录/Controller'
               
             
           </h1>
@@ -316,8 +298,8 @@
               
                 <span class="post-meta-item-text">Posted on</span>
               
-              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-03-19T01:43:13+08:00">
-                2017-03-19
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2017-03-23T00:08:10+08:00">
+                2017-03-23
               </time>
             
 
@@ -339,8 +321,8 @@
               
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Eclipse/" itemprop="url" rel="index">
-                    <span itemprop="name">Eclipse</span>
+                  <a href="/categories/CI/" itemprop="url" rel="index">
+                    <span itemprop="name">CI</span>
                   </a>
                 </span>
 
@@ -360,7 +342,7 @@
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
-             <span id="/2017/03/19/彻底修改Eclipse中项目名称/" class="leancloud_visitors"  data-flag-title="彻底修改Eclipse中项目名称">
+             <span id="/2017/03/23/default_controller/" class="leancloud_visitors"  data-flag-title="CI框架 default_controller 如何设置为：'目录/Controller'">
             </span>
 			Views
           
@@ -384,24 +366,18 @@
       
 
       
-        <h3 id="一、"><a href="#一、" class="headerlink" title="一、"></a>一、</h3><ol>
-<li><h4 id="比较简单的方法："><a href="#比较简单的方法：" class="headerlink" title="比较简单的方法："></a>比较简单的方法：</h4><p>   右键工程： Refactor-&gt;Rename, 或者按F2，修改名称</p>
-</li>
-<li><h4 id="手动更改目录配置："><a href="#手动更改目录配置：" class="headerlink" title="手动更改目录配置："></a>手动更改目录配置：</h4></li>
-</ol>
-<ul>
-<li>找到项目文件夹，修改项目根目录的名称</li>
-<li>打开.setting文件夹，找到org.eclipse.wst.common.component 文件，如下图，修改成你想要的项目名称<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"> &lt;?xml version=<span class="string">"1.0"</span> encoding=<span class="string">"UTF-8"</span>?&gt;&lt;project-modules id=<span class="string">"moduleCoreId"</span> project-version=<span class="string">"1.5.0"</span>&gt;</div><div class="line">    &lt;wb-module deploy-name=<span class="string">"项目名"</span>&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/WEB-INF/classes"</span> <span class="built_in">source</span>-path=<span class="string">"/src/main/java"</span>/&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/"</span> <span class="built_in">source</span>-path=<span class="string">"/target/m2e-wtp/web-resources"</span>/&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/"</span> <span class="built_in">source</span>-path=<span class="string">"/src/main/webapp"</span> tag=<span class="string">"defaultRootSource"</span>/&gt;</div><div class="line">        &lt;wb-resource deploy-path=<span class="string">"/WEB-INF/classes"</span> <span class="built_in">source</span>-path=<span class="string">"/src/main/resources"</span>/&gt;</div><div class="line">        &lt;property name=<span class="string">"java-output-path"</span> value=<span class="string">"/项目名/target/classes"</span>/&gt;</div><div class="line">        &lt;property name=<span class="string">"项目名"</span> value=<span class="string">"collector"</span>/&gt;</div><div class="line">    &lt;/wb-module&gt;</div><div class="line">&lt;/project-modules&gt;</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<p><em>deploy-name：配置到web server时显示的组件名称</em><br><em>java-output-path：类编译文件的输出位置</em><br><em>context-root：部署目录</em></p>
-<h3 id="二、【如果你是手动更改目录，可以忽略次步骤】"><a href="#二、【如果你是手动更改目录，可以忽略次步骤】" class="headerlink" title="二、【如果你是手动更改目录，可以忽略次步骤】"></a>二、【如果你是手动更改目录，可以忽略次步骤】</h3><ul>
-<li>项目右键–&gt; Properties –&gt; Web Project Settings –&gt; Context root</li>
-</ul>
-<h3 id="三、修改项目目录下-project-文件"><a href="#三、修改项目目录下-project-文件" class="headerlink" title="三、修改项目目录下.project 文件"></a>三、修改项目目录下.project 文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&lt;?xml version=<span class="string">"1.0"</span> encoding=<span class="string">"UTF-8"</span>?&gt;</div><div class="line">&lt;projectDescription&gt;</div><div class="line">	&lt;name&gt;项目名&lt;/name&gt;</div><div class="line">	&lt;comment&gt;&lt;/comment&gt;</div><div class="line">	.....</div><div class="line">&lt;projectDescription&gt;</div></pre></td></tr></table></figure>
-<p><strong>一般的项目到这里就完成了</strong></p>
-<h3 id="四、maven项目：更改pom-xml配置【不是maven项目请忽略】"><a href="#四、maven项目：更改pom-xml配置【不是maven项目请忽略】" class="headerlink" title="四、maven项目：更改pom.xml配置【不是maven项目请忽略】"></a>四、maven项目：更改pom.xml配置【不是maven项目请忽略】</h3><p>打开 pom.xml 文件，修改以下三项配置，xxx 就是原项目名</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">&lt;artifactId&gt;项目名&lt;/artifactId&gt;</div><div class="line">&lt;name&gt;项目名 Maven Webapp&lt;/name&gt;</div><div class="line">&lt;finalName&gt;项目名&lt;/finalName&gt;</div></pre></td></tr></table></figure>
+        <h2 id="闲谈"><a href="#闲谈" class="headerlink" title="闲谈"></a>闲谈</h2><p>前几天，我的室友发现了一个问题：CI框架的Router.php文件的default_controller设置为application\controllers文件下的 <strong>一级PHP文件名</strong> 就可以，设置为 <strong>目录/Controller名</strong> 就 404，如目录结构：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">----application</div><div class="line">   |</div><div class="line">   ----controllers</div><div class="line">       |</div><div class="line">       -----admin</div><div class="line">       |    |</div><div class="line">       ---------Welcome.php</div><div class="line">       |</div><div class="line">       ----Welcome.php</div></pre></td></tr></table></figure>
+<p>在application\config下的routes.php,配置如下<br><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">$route[<span class="string">'default_controller'</span>] = <span class="string">'welcome'</span>;          这样就可以</div><div class="line">$route[<span class="string">'default_controller'</span>] = <span class="string">'admin/welcome'</span>;    这样不可以</div></pre></td></tr></table></figure></p>
+<p>一开始以为是哪里配置错了，但没道理啊，主要的只有这个配置。我开始怀疑是CI版本的问题，到网上一查，果然有相同问题的道友，不过没有找到确切的解决方案，也许是应为安全性的问题，3.x 版本的都不能这样设置了。</p>
+<h2 id="正题"><a href="#正题" class="headerlink" title="正题"></a>正题</h2><p>博主尝试着决解这个问题。<strong>博主的CI版本为</strong>：<em>3.1.4</em> </p>
+<p>看了源码才知道原来 $route[‘default_controller’] 的值是 ‘类名/方法名’ 而不是 ‘路径/类名’</p>
+<h3 id="打开system-core目录下的Router-php，-大概在298行"><a href="#打开system-core目录下的Router-php，-大概在298行" class="headerlink" title="打开system\core目录下的Router.php， 大概在298行"></a>打开system\core目录下的Router.php， 大概在298行</h3><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="comment">//将下面的代码注释掉</span></div><div class="line"><span class="comment">/**</span></div><div class="line">if (sscanf($this-&gt;default_controller, '%[^/]/%s', $class, $method) !== 2)</div><div class="line">&#123;</div><div class="line">	$method = 'index';</div><div class="line">&#125;</div><div class="line">**/</div><div class="line"><span class="comment">//并上面的代码后面加上 下面的代码</span></div><div class="line">$index = strripos(<span class="keyword">$this</span>-&gt;default_controller, <span class="string">'/'</span>);  <span class="comment">// 记录 符号‘/’的下标</span></div><div class="line"><span class="keyword">if</span>($index == <span class="keyword">false</span>)&#123;</div><div class="line">    $class = <span class="keyword">$this</span>-&gt;default_controller; <span class="comment">// 没有‘/’ 的可以直接赋值</span></div><div class="line">&#125;<span class="keyword">else</span>&#123;</div><div class="line">	<span class="keyword">$this</span>-&gt;directory = substr(<span class="keyword">$this</span>-&gt;default_controller, <span class="number">0</span>, $index + <span class="number">1</span>); <span class="comment">//目录的字符串</span></div><div class="line">	$class  = substr(<span class="keyword">$this</span>-&gt;default_controller, $index + <span class="number">1</span>);  <span class="comment">//类的字符串</span></div><div class="line">&#125;</div><div class="line">$method = <span class="keyword">$this</span>-&gt;method;  <span class="comment">//默认方法</span></div></pre></td></tr></table></figure>
+<p>如果是 ‘路径/类名’ ，以上的配置就够了</p>
+<h3 id="添加Controller默认的方法名"><a href="#添加Controller默认的方法名" class="headerlink" title="添加Controller默认的方法名"></a>添加Controller默认的方法名</h3><p>当然可以设置默认的方法名 ， 一般是index，如果要改也是可以的<br>在application\config下的routes.php，添加<br><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$route[<span class="string">'method'</span>] = <span class="string">'index'</span>;  <span class="comment">//默认的方法名</span></div></pre></td></tr></table></figure></p>
+<p>在system\core目录下的Router.php，大概在176行，添加</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">if</span> (<span class="keyword">isset</span>($route) &amp;&amp; is_array($route))</div><div class="line">	&#123;</div><div class="line">		<span class="keyword">isset</span>($route[<span class="string">'default_controller'</span>]) &amp;&amp; <span class="keyword">$this</span>-&gt;default_controller = $route[<span class="string">'default_controller'</span>];</div><div class="line">		<span class="keyword">isset</span>($route[<span class="string">'translate_uri_dashes'</span>]) &amp;&amp; <span class="keyword">$this</span>-&gt;translate_uri_dashes = $route[<span class="string">'translate_uri_dashes'</span>];</div><div class="line">		<span class="keyword">unset</span>($route[<span class="string">'default_controller'</span>], $route[<span class="string">'translate_uri_dashes'</span>]);</div><div class="line">		<span class="keyword">$this</span>-&gt;routes = $route;</div><div class="line">		<span class="keyword">isset</span>($route[<span class="string">'method'</span>]) &amp;&amp; <span class="keyword">$this</span>-&gt;method = $route[<span class="string">'method'</span>];  <span class="comment">// 添加这一句代码就可以了</span></div><div class="line">	&#125;</div></pre></td></tr></table></figure>
+<p>这样就可以了，希望对你有帮助。</p>
 
       
     </div>
@@ -425,13 +401,9 @@
       
         <div class="post-tags">
           
-            <a href="/tags/eclipse/" rel="tag"># eclipse</a>
+            <a href="/tags/PHP/" rel="tag"># PHP</a>
           
-            <a href="/tags/maven/" rel="tag"># maven</a>
-          
-            <a href="/tags/修改/" rel="tag"># 修改</a>
-          
-            <a href="/tags/项目名/" rel="tag"># 项目名</a>
+            <a href="/tags/default-controller/" rel="tag"># default_controller</a>
           
         </div>
       
@@ -444,8 +416,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2017/03/18/hello-world/" rel="next" title="Hello World">
-                <i class="fa fa-chevron-left"></i> Hello World
+              <a href="/2017/03/19/彻底修改Eclipse中项目名称/" rel="next" title="彻底修改Eclipse中项目名称">
+                <i class="fa fa-chevron-left"></i> 彻底修改Eclipse中项目名称
               </a>
             
           </div>
@@ -453,10 +425,6 @@
           <span class="post-nav-divider"></span>
 
           <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2017/03/23/default_controller/" rel="prev" title="CI框架 default_controller 如何设置为：'目录/Controller'">
-                CI框架 default_controller 如何设置为：'目录/Controller' <i class="fa fa-chevron-right"></i>
-              </a>
             
           </div>
         </div>
@@ -605,7 +573,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#一、"><span class="nav-number">1.</span> <span class="nav-text">一、</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#比较简单的方法："><span class="nav-number">1.1.</span> <span class="nav-text">比较简单的方法：</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#手动更改目录配置："><span class="nav-number">1.2.</span> <span class="nav-text">手动更改目录配置：</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二、【如果你是手动更改目录，可以忽略次步骤】"><span class="nav-number">2.</span> <span class="nav-text">二、【如果你是手动更改目录，可以忽略次步骤】</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#三、修改项目目录下-project-文件"><span class="nav-number">3.</span> <span class="nav-text">三、修改项目目录下.project 文件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#四、maven项目：更改pom-xml配置【不是maven项目请忽略】"><span class="nav-number">4.</span> <span class="nav-text">四、maven项目：更改pom.xml配置【不是maven项目请忽略】</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#闲谈"><span class="nav-number">1.</span> <span class="nav-text">闲谈</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#正题"><span class="nav-number">2.</span> <span class="nav-text">正题</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#打开system-core目录下的Router-php，-大概在298行"><span class="nav-number">2.1.</span> <span class="nav-text">打开system\core目录下的Router.php， 大概在298行</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#添加Controller默认的方法名"><span class="nav-number">2.2.</span> <span class="nav-text">添加Controller默认的方法名</span></a></li></ol></li></ol></div>
             
 
           </div>
