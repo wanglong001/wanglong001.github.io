@@ -293,7 +293,7 @@ mathjax:
 #duoshuo_shortname: wanglong001.github.io
 
 #Disqus
-disqus_shortname: wanglong001
+#disqus_shortname: wanglong001
 
 # Hypercomments
 #hypercomments_id:
@@ -303,7 +303,7 @@ disqus_shortname: wanglong001
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
+youyan_uid: 2128632
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -317,12 +317,12 @@ disqus_shortname: wanglong001
 ##  type: button
 
 # Share
-#jiathis:
+jiathis: true
 # Warning: JiaThis does not support https.
 #add_this_id:
 
 # Share
-#duoshuo_share: true
+duoshuo_share: true
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
