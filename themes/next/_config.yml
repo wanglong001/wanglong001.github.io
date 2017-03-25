@@ -292,8 +292,8 @@ mathjax:
 # Duoshuo ShortName
 #duoshuo_shortname: wanglong001.github.io
 
-# Disqus
-#disqus_shortname: wanglong001.github.io
+#Disqus
+disqus_shortname: wanglong001
 
 # Hypercomments
 #hypercomments_id:
