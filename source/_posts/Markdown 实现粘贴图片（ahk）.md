@@ -4,7 +4,6 @@ date: 2017-04-16 16:44:45
 type: "archives"
 categories:
   - AutoHotKey
-  - Markdown
 tags:
   - AutoHotKey
   - Markdown
