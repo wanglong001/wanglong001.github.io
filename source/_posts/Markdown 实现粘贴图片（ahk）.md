@@ -78,6 +78,15 @@ return
 ```
 
 ## 演示
+
+ 1. 操作
+ 
+*前提：运行ClipMd.ahk*
+
+ - Ctrl + F1 : 生成图片链接
+ - Ctrl + F2 : 发布图片
+ - Ctrl + F8 : 退出
+
 ![image](http://wanglong001.github.io/images/clipmd_demo.gif)
 
 
