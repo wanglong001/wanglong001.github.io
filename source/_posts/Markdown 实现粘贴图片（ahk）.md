@@ -35,7 +35,6 @@ tags:
 
 
 ```
-![image](http://wanglong001.github.io/images/20170416_182250.png)
 createPic(PicPath)
 {
 	pToken := Gdip_Startup() ; Start gdi+
@@ -93,5 +92,5 @@ return
 
 
   [1]: http://www.jianshu.com/p/7bd4e6ed99be
-  [2]: autohotkey.com
+  [2]: https://autohotkey.com
   [3]: https://github.com/wanglong001/ClipMd
