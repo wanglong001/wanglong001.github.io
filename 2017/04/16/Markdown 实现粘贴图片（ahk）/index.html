@@ -104,7 +104,7 @@
 当然，也可以使用  Cmd Markdown 的服务器，不过要会员： 99/年。作为学生的我现在是能省就省（毕竟又不是我自己的钱）
 最近看到一篇文章，简化markdown写作中的贴图流程，不过是 mac系统 的。其中有提到一个关键词">
 <meta property="og:image" content="http://wanglong001.github.io/images/clipmd_demo.gif">
-<meta property="og:updated_time" content="2017-04-17T05:27:09.417Z">
+<meta property="og:updated_time" content="2017-04-17T05:44:16.128Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Markdown 实现粘贴图片（ahk）">
 <meta name="twitter:description" content="闲谈博主使用的Markdown编辑器是 Cmd Markdown 每次粘贴截图都是非常的麻烦：
@@ -385,7 +385,7 @@
 <p>将截图保存到本地 –&gt; 上传到服务器 –&gt; 引用链接</p>
 </blockquote>
 <p>当然，也可以使用  <strong>Cmd Markdown</strong> 的服务器，不过要会员： 99/年。<br>作为学生的我现在是能省就省（毕竟又不是我自己的钱）</p>
-<p>最近看到一篇文章，<a href="http://www.jianshu.com/p/7bd4e6ed99be" target="_blank" rel="external">简化markdown写作中的贴图流程</a>，不过是 <strong>mac系统</strong> 的。其中有提到一个关键词 <a href="autohotkey.com">AutoHotKey</a> ，这是windows下使用快捷键的。</p>
+<p>最近看到一篇文章，<a href="http://www.jianshu.com/p/7bd4e6ed99be" target="_blank" rel="external">简化markdown写作中的贴图流程</a>，不过是 <strong>mac系统</strong> 的。其中有提到一个关键词 <a href="https://autohotkey.com" target="_blank" rel="external">AutoHotKey</a> ，这是windows下使用快捷键的。</p>
 <p>接下来的几天开始研究 <strong>AutoHotKey</strong>，发现这种脚本还是比较好玩的，不但是快捷键、桌面绘图和控件都有相关的库。</p>
 <p>现在博主主要的问题还是在如果把剪切板的截图转换成图片，找了很久，还是没有找到相关的资料，本来是想实在找不到，就自己写一个截图工具（从根本上截图问题），那是还是太天真了。虽然到最后可以实现 截图，但是不想QQ截图那样，在截图的时候，桌面上多了一层图层，在截图的时候不会点击到图层下面的文件、内容的。博主的这个还是会有点击、和拖动事件的比较麻烦。</p>
 <p>在偶然的情况下，发现了一个非常有用的函数 <code>Gdip_CreateBitmapFromClipboard()</code>,一下了解决了问题。这下可以直接从获取剪切板的截图了。</p>
