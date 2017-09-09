@@ -128,7 +128,6 @@ class StartSessionResponseSchema(Schema):
     session_secret = fields.Str(required=True)
 ```
    - demo
-获取用户管理接口
 ``` python
 #!/usr/bin/env python3
 from speakin_voice_sdk.api import Api
@@ -140,11 +139,14 @@ print(userApi.setAppUser({"user_id":"xx","user_type":"PEOPLE","valid":True}))
 ### 用户管理接口
 
   - 用户属性
-属性名 说明
-userId 用户ID，需要保证每个唯一用户在app范围内唯一
-userType 用户类型，目前有三种:DEV,PEOPLE,VIRTUAL
-valid 是否有效，无效用户调用接口会被拒绝
-accessAllAppUser 是否可以访问所有用户的声纹，在声纹认证中有意义
+  
+| 属性名 | 说明 |
+| ------ | ----|
+|userId |用户ID，需要保证每个唯一用户在app范围内唯一
+|userType |用户类型，目前有三种:DEV,PEOPLE,VIRTUAL
+|valid |是否有效，无效用户调用接口会被拒绝
+|accessAllAppUser |是否可以访问所有用户的声纹，在声纹认证中有意义
+
   - 父用户和子用户的概念
 父用户和子用户都是app内的用户，任何用户都可以建立父子关系。比如A，B两个用户，A可以是B的父用
 户，也可以是B的子用户。对于B也是一样。
