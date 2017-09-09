@@ -1,23 +1,21 @@
 ﻿
-# SPEAKIN声纹云python SDK
-我们所有的接口都是通过http通讯的，对于传输的数据内容我们都会用app secret或session secret进行加密和签名。对于每个使用我们声纹云接口的用户，我们都会提供一个app id和app secret。在安全层面我们做了两级权限，使用app secret可以进行用户信息操作和创建session.对于每个创建的session,都有不大于2个小时的生命周期，session使用session secret进行加密和签名，而且session会绑定到一个用户，所有操作只会影响到这个用户。对于app secret的使用，我们还可以进行服务器ip限制来加强安全。
+#  python SDK of SPEAKIN Voiceprint cloud 
+All of our interfaces are through the http communication, for the transmission of data content we will use app secret or session secret for encryption and signature. For each user who uses our voiceprint cloud interface, we will provide an app id and app secret. In the security level we have done two levels of authority, the use of the app secret can be user information operation and create a session. For each created session, there are no more than 2 hours of life cycle, session using session secret for encryption and signature, and session will be bound to a user, all operations will only affect the user. For the use of the app secret, we can also server ip restrictions to enhance security.
 
 [TOC]
 
 
 ---
 
-## SDK接口使用列表
-### 全局接口
-全局接口是整个sdk的入口，通过全局接口可以用户用户接口和会话接口。对于每个sdk用户我们都会分配一
-个app id和app secret.
-创建全局接口实例需要如下参数：
+## The SDK interface
+### Global interface
+The global interface is the entry of the entire sdk. through the global interface, you can  use user interface and session interface. For each sdk user we will assign an app id and app secret. To create a global interface instance, you should require the following parameters:
 
-| 参数名 | 说明 |
+| Parameter | Description |
 |-------|---- |
-| appId | 我们分配的app id|
-| appSecret | 我们分配的app secret,需要妥善保管|
-| baseUrl | 声纹云的http地址，公有云的是http://api2.speakin.mobi|
+| appId | We assign the app id|
+| appSecret | We assign the app secret that must be properly kept|
+| baseUrl | The voiceprint cloud of the http address, the public cloud is http://api2.speakin.mobi |
 
 ``` python
 #!/usr/bin/env python3
@@ -25,16 +23,15 @@ from speakin_voice_sdk.api import Api
 api = Api("your app id","your app secret","your server url")
 ```
 
-#### 列出可用的声纹模型
-我们对于不同场景(语音时常，环境噪音，数据或自由文本，采样率等)提供了不同的算法模型。根据我们的
-用户的需求，我们会给每个appId分配一个或多个算法模型。通过这个接口就可以查看有哪些可用模型。
+#### List the available voiceprint models
+We provide different algorithm models for different scenarios (voice often, ambient noise, data or free text, sampling rate, etc.). According to the needs of our users, we will assign one or more algorithmic models to each appId. Through this interface you can see which available models.
 
- - 请求参数
+ - Request parameter
 ``` python
 class ListModuleRequestSchema(Schema):
     pass
 ```
-  - 响应参数
+  - Response parameter
 ``` python
 class ModuleSchema(Schema):
     voice_bit_count = fields.Int(required=True)
@@ -54,21 +51,19 @@ res = api.listModule({})
 print(res)
 ``` 
 
-#### 创建会话
-为了安全对于某些操作，会生成会话绑定到某个用户上。从而保证app secret不被泄漏。创建的会话是有生
-命周期的，可以通过参数ttl来调整生命周期长短。
-在创建会话的时候，需要指定会话的权限，否在调用对应接口的时候会被拒绝。
+#### Create a session
+For security, session generation is bound to a user. Thus we should ensuring that the app secret is not leaked. To Creating a session is a life cycle, you can adjust the life cycle by parameter ttl. In the creation of the session, you need to specify the permissions of the session, whether the call to the corresponding interface will be rejected.
 
-|参数| 说明|
+|Parameter| Description|
 | --- | --- |
-| userId | 绑定的用户Id |
-| canRegister |是否可以调用注册接口 |
-| canVerify | 是否可以调用验证接口 |
-| canIdentity |是否可以调用认证接口 |
-| ttl | 会话生存时间，单位秒 |
+| userId | Bound user id |
+| canRegister |	Whether you can call the registration interface |
+| canVerify | Whether you can call the authentication interface |
+| canIdentity | Whether the authentication interface can be called |
+| ttl | Session Survival Time in seconds |
 
 
-  - 请求参数
+  - Request Paramter
 ``` python
 class StartSessionRequestSchema(Schema):
     user_id = fields.Str(required=True,default="")
@@ -78,7 +73,7 @@ class StartSessionRequestSchema(Schema):
     ttl = fields.Int(default=500)
 ```
 
-  - 响应参数
+  - Response Paramter
 ``` python
 class StartSessionResponseSchema(Schema):
     session_id = fields.Str(required=True)
@@ -108,10 +103,10 @@ recordInfo = sessionApi.startRecord({
 })
 print(recordInfo)
 ```
-#### 获取用户管理接口
-用户管理也是使用app seceret作为加密和签名，为了模块更清晰就独立出来一个模块。
+#### Get the user management interface
+User management is also using the app seceret as an encryption and signature, for the module more clearly independent of a module.
 
-   - 请求参数
+   - Request Paramert
 ``` python
 class StartSessionRequestSchema(Schema):
     user_id = fields.Str(required=True,default="")
@@ -120,7 +115,7 @@ class StartSessionRequestSchema(Schema):
     can_identity = fields.Bool(default=False)
     ttl = fields.Int(default=500)
 ```
-   - 响应参数
+   - Response Parameter
 ``` python
 class StartSessionResponseSchema(Schema):
     session_id = fields.Str(required=True)
@@ -136,26 +131,19 @@ api = Api("your app id","your app secret","your server url")
 userApi = api.getUserApi()
 print(userApi.setAppUser({"user_id":"xx","user_type":"PEOPLE","valid":True}))
 ```
-### 用户管理接口
+### User management interface
 
-  - 用户属性
-  
-| 属性名 | 说明 |
+  - User attributes
+ 
+| Attribute name | Description |
 | ------ | ----|
-|userId |用户ID，需要保证每个唯一用户在app范围内唯一
-|userType |用户类型，目前有三种:DEV,PEOPLE,VIRTUAL
-|valid |是否有效，无效用户调用接口会被拒绝
-|accessAllAppUser |是否可以访问所有用户的声纹，在声纹认证中有意义
+|userId |The user ID needs to ensure that each unique user is unique within the app range
+|userType |User type, there are three: DEV, PEOPLE, VIRTUAL
+|valid |Whether the invalid, invalid user call interface will be rejected
+|accessAllAppUser |Whether you can access all the user's voiceprint, in the voiceprint authentication meaningful
 
-  - 父用户和子用户的概念
-父用户和子用户都是app内的用户，任何用户都可以建立父子关系。比如A，B两个用户，A可以是B的父用
-户，也可以是B的子用户。对于B也是一样。
-父子用户只是一种关联关系，并不是从属关系。父用户有权限访问子用户的声纹，只在声纹认证中有意
-义。
-对于一个用户进行认证时，如果设置了accessAllAppUser就可以比对整个app中所有用户声纹，否则的话就
-只比对自己和子用户的声纹。
-#### 设置用户
-  - 请求参数
+#### Set up user
+  - Request Parameter
 ``` python
 class SetAppUserRequestSchema(Schema):
     user_id = fields.Str(required=True)
@@ -164,7 +152,7 @@ class SetAppUserRequestSchema(Schema):
     access_all_app_user = fields.Bool(default=False)
 ```
 
-  - 响应参数
+  - Response Paramter
 ``` python
 class SetAppUserResponseSchema(Schema):
     pass
@@ -179,13 +167,13 @@ userApi = api.getUserApi()
 # 设置用户
 userApi.setAppUser({"user_id":"xx","user_type":"PEOPLE","valid":True})
 ```
-#### 获取用户
-  - 请求参数
+#### Get the user
+  - Request Parameter
 ``` python
 class GetAppUserRequestSchema(Schema):
     user_id = fields.Str(required=True)
 ```
-  - 响应参数
+  - Response Paramter
 ``` python
 class GetAppUserResponseSchema(Schema):
     user_id = fields.Str(required=True)
@@ -202,14 +190,14 @@ userApi = api.getUserApi()
 user = userApi.getAppUser({"user_id":"xx"})
 print(user)
 ```
-#### 增加子用户
-  - 请求参数
+#### Increase sub-user
+  - Request Parameter
 ``` python
 class AddChildAppUserRequestSchema(Schema):
     user_id = fields.Str(required=True)
     child_user_id = fields.Str(required=True)
 ```
-  - 响应参数
+  - Response Paramter
 ``` python
 class AddChildAppUserResponseSchema(Schema):
     pass
@@ -222,14 +210,14 @@ api = Api("your app id","your app secret","your server url")
 userApi = api.getUserApi()
 userApi.addChildAppUser({"user_id":"xx","child_user_id":"xxx"})
 ```
-#### 删除子用户
-  - 请求参数
+#### Delete the child user
+  - Request Parameter
 ``` python
 class RemoveChildAppUserRequestSchema(Schema):
     user_id = fields.Str(required=True)
     child_user_id = fields.Str(required=True)
 ```
-  - 响应参数
+  - Response Parameter
 ``` python
 class RemoveChildAppUserResponseSchema(Schema):
     pass
@@ -242,13 +230,13 @@ api = Api("your app id","your app secret","your server url")
 userApi = api.getUserApi()
 userApi.removeChildAppUser({"user_id":"xx","child_user_id":"xxx"})
 ```
-#### 获取子用户数量
-  - 请求参数
+#### Get the number of sub-users
+  - Request Parameter
 ``` python
 class GetChildAppUserCountRequestSchema(Schema):
     user_id = fields.Str(required=True)
 ```
-  - 响应参数
+  - Response Parameter
 ``` python
 class GetChildAppUserCountResponseSchema(Schema):
     count = fields.Int(required=True)
@@ -262,15 +250,15 @@ userApi = api.getUserApi()
 num = userApi.getChildAppUserCount({"user_id":"xx"})
 print(num)
 ```
-#### 列出子用户
- - 请求参数
+#### List sub-users
+ -  Request Parameter
 ``` python
 class ListChildAppUserRequestSchema(Schema):
     user_id = fields.Str(required=True)
     offset = fields.Int(required=True)
     limit = fields.Int(required=True)
 ```
- - 响应参数
+ - Response Parameter
 ``` python
 class ListChildAppUserResponseSchema(Schema):
     child_user_id_list = fields.List(fields.Str(), required=True)
@@ -284,14 +272,14 @@ userApi = api.getUserApi()
 users = userApi.listChildAppUser({"user_id":"xx"})
 print(users)
 ```
-#### 检查是否包含子用户
- - 请求参数
+#### Check if the sub-user is included
+ - Request Parameter
 ``` python
 class ContainChildAppUserRequestSchema(Schema):
     user_id = fields.Str(required=True)
     child_user_id = fields.Str(required=True)
 ```
- - 响应参数
+ - Response Parameter
 ``` python
 class ContainChildAppUserResponseSchema(Schema):
     contain = fields.Bool(required=True)
@@ -305,23 +293,22 @@ userApi = api.getUserApi()
 isContain = userApi.containChildAppUser({"user_id":"xx","child_user_id":"xxx"})
 print(isContain)
 ```
-### 会话接口
-会话接口主要包含上传文件，注册，验证和认证接口。
-在文件上传的使用需要指定文件的用途，所有对文件的检查都是在上传过程中做的。在注册，验证和认证
-接口中，只要指定使用的语音ID就可以了。
-#### 文件上传接口
-文件上传支持流式上传，sdk的使用者可以边获取数据边上传。每个会话同时只支持一个上传流，要开启一
-个新的上传流的时候，必须结束上一个上传流或者取消上一个上传流。分片上传数据的时候，数据片段编
-号是从1开始，不是从0开始。
+### Session interface
+The session interface mainly includes upload file, registration, authentication and authentication interface. 
 
- - 开始上传
-##### 服务端检查逻辑
-  1. 检查targetAction的权限
-  2. 检查数据格式是否支持
-  3. 检查上一个上传流是否存在
-  4. 检查算法模型参数是否正确
+The use of the file upload needs to specify the use of the file, all of the documents are checked in the upload process to do. In the registration, authentication and authentication interface, as long as the use of the specified voice ID on it.
 
-请求参数
+#### File upload interface
+File upload support streaming upload, sdk users can get data while uploading. Each session also supports only one upload stream. To open a new upload stream, you must end the last upload stream or cancel the previous upload stream. When the data is uploaded, the data fragment number starts at 1, not from 0.
+
+ - Start uploading
+##### Server-side check logic
+  1. Check the permissions for targetAction
+  2. Check whether the data format is supported
+  3. Check if the last upload stream exists
+  4. Check that the algorithm model parameters are correct
+
+Request Parameter
 ``` python
 class StartRecordRequestSchema(Schema):
     gen_text = fields.Bool(default=False)
@@ -331,7 +318,7 @@ class StartRecordRequestSchema(Schema):
     data_format = fields.Str(required=True)
     target_action = fields.Str(required=True)
 ```
-响应参数
+Response Parameter
 ``` python
 class StartRecordResponseSchema(Schema):
     record_id = fields.Str(required=True)
@@ -364,33 +351,40 @@ server url")
             rs = sessionApi.openUploadRecordStream(recordInfo['record_id'])
             with open('your file', 'rb') as f :
              rs.write(f.read())
-             print("文件正在上传中...")
+             print ( " file is uploading ... " )
             rs.done()
-            print("上传文件成功...")
+            print ( " upload file is successful ... " )
         else :
-             print("recordInfo 获取失败...")
+            print ( " recordInfo get failed ... " )
 else :
-    print("sessonInfo 获取失败...")
+   print ( " sessonInfo get failed ... " )
 ```
- - 上传文件分片
-从开始上传文件demo中获取的RecordStream对象上调用write方法就可以了。
- - 取消上传
-从开始上传demo中获取的RecordStream对象上调用cancel方法就可以了。
- - 结束上传
-从开始上传demo中的RecordStream对象上调用done方法。
-##### 服务端逻辑
-1. 检查是否处在一个上传流中
-2. 检查语音数据是否合法
-3. 合并文件片段并保存到文件服务器中
-4. 保存语音meta信息
-5. 清除上传流状态
-#### 声纹注册
-请求参数
+ - Upload file fragmentation
+
+ From the beginning of the upload file demo to get the RecordStream object and call on the write method on it.
+
+ - Cancel the upload
+ 
+ From the start upload demo to get the RecordStream object and call cancel method on it.
+
+ - End upload
+ 
+The done method is called on the RecordStream object from the start upload demo.
+
+##### Server logic
+1. Check if it is in an upload stream
+2. Check if the voice data is legal
+3. Merge the file fragment and save it to the file server
+4. Save the voice meta information
+5. Clear the upload status
+
+#### Voiceprint registration
+Request parameter
 ``` python
 class RegisterRequestSchema(Schema):
     record_id_list = fields.List(fields.Str(),required=True)
 ```
-响应参数
+Response parameter
 ``` python
 class RegisterResponseSchema(Schema):
     pass
@@ -421,34 +415,37 @@ if sessionInfo != None :
     })
     if recordInfo != None :
         rs = sessionApi.openUploadRecordStream(recordInfo['record_id'])
-        # 上传⽂件 测试⽤demo⽬录下的 501-1_5.wav ⾳频⽂件
+        # Upload the file test using the demo directory 501-1_5.wav audio file
         with open('501-1_5.wav', 'rb') as f :
-        rs.write(f.read())
-        print("文件正在上传中...")
+            rs.write(f.read())
+            print ( " file is uploading ... " )
         rs.done()
-        print("上传文件件成功...")
+        print ( " upload file is successful ... " )
         recordIdList = []
         recordIdList.append(recordInfo['record_id'])
         recordIdListReq = {}
         recordIdListReq['record_id_list'] = recordIdList
-        # 声纹注册
+        # voiceprint registration
         sessionApi.register(recordIdListReq)
-        print("声纹注册成功...")
+        print( " voiceprint registration success ... " )
     else :
-        print("recordInfo 获取失败...")
+       print( " recordInfo get failed ... " )
 else :
-    print("sessonInfo 获取失败...")
+    print( " sessonInfo get failed ... " )
 ```
-#### 声纹验证
-请求参数
+#### Voiceprint verification
+Request parameter
 ``` python
 class VerifyRequestSchema(Schema):
     record_id = fields.Str(required=True)
 ```
-响应参数
+Response parameter
 ``` python
 class VerifyResponseSchema(Schema):
     result = fields.Bool(required=True)
+    score  = fields.Float(required=True)
+    threshold_score = fields.Float(required=True)
+    dyanmic_cmp_score = fields.Float(required=True)
 ```
 demo
 ``` python
@@ -476,35 +473,34 @@ if sessionInfo != None :
     })
     if recordInfo != None :
         rs = sessionApi.openUploadRecordStream(recordInfo['record_id'])
-        # 上传⽂件 测试用demo目录下的 501-1_5.wav 音频文件
+         # Upload the file test using the demo directory 501-1_5.wav audio file
         with open('501-1_5.wav', 'rb') as f :
-        rs.write(f.read())
-        print("文件正在上传中...")
+            rs.write(f.read())
+            print ( " file is uploading ... " )
         rs.done()
-        print("上传文件成功...")
+        print ( " upload file is successful ... " )
         recordIdListObj = {}
         recordIdListObj['record_id'] = recordInfo['record_id']
-        # 声纹验证
+        # voiceprint verification
         isVerify = sessionApi.verify(recordIdListObj)
         if isVerify :
-            print("声纹验证成功...")
+            print( " voiceprint verification is successful ... " )
         else :
-            print("声纹验证失败...")
+            print( " voiceprint verification failure. .. " )
     else :
-     print("recordInfo 获取失败...")
+     print("recordInfo get failed ...")
 else :
-    print("sessonInfo 获取失败...")
+    print("sessonInfo get successful...")
 ```
-#### 声纹认证
-认证会进行多个用户的声纹对比。如果用户可以访问所有用户的声纹，那就是全局对比。对于普通用户，
-只会对比自己以及子用户的声纹。
+#### Voiceprint identify
+The certification will be compared to the voice of multiple users. If the user can access all the user's voiceprint, that is the global contrast. For ordinary users, only against their own and sub-users voiceprint.
 
-请求参数
+Requset Parameter
 ``` python
 class IdentityRequestSchema(Schema):
     record_id = fields.Str(required=True)
 ```
-响应参数
+Response Parameter
 ``` python
 class IdentityResponseSchema(Schema):
     user_id_list = fields.List(fields.Str(),required=True)
@@ -535,38 +531,38 @@ if sessionInfo != None :
     })
     if recordInfo != None :
         rs = sessionApi.openUploadRecordStream(recordInfo['record_id'])
-        # 上传⽂件 测试用demo目录下的 501-1_5.wav 音频文件
+        # Upload the file test 501-1_5.wav audio file 
         with open('501-1_5.wav', 'rb') as f :
         rs.write(f.read())
-        print("文件正在上传中...")
+        print( " file is uploading ... " )
         rs.done()
-        print("上传文件成功...")
+        print("upload file successfully...")
         recordIdListObj = {}
         recordIdListObj['record_id'] = recordInfo['record_id']
-        # 声纹认证
+        # voiceprint identity
         userIdList = sessionApi.identity(recordIdListObj)
         if userIdList != None :
-            print("声纹认证成功...")
+            print("voiceprint identity success...")
             print(userIdList)
         else :
-            print("声纹认证失败...")
+            print("voiceprint identity failed...")
     else :
-        print("recordInfo 获取失败...")
+        print("recordInfo get failed...")
 else :
-    print("sessonInfo 获取失败...")
+    print("sessonInfo get successful...")
 ```
 
 ---
 
-## 怎样测试音频？
-可以参考demo 目录下的DEMO3.py 文件
-只需配置好下面的常量：
+## How do I test audio?
+You can refer to the DEMO3.py file that is under the demo directory  
+only need to configure the following constant:
 ``` python
 """
-    我的目录如下：
+     My Contents are as follows: ：
     sdk_test_voice
                 |
-                name1(文件夹以测试人的名称命名)
+                name1(the folder name is as same as tester)
                     |
                     register
                             |
@@ -576,7 +572,7 @@ else :
                             |
                             *.wav
                 |
-                name2(文件夹以测试人的名称命名)
+                name2(the folder name is as same as tester)
                     |
                     register
                            |
@@ -587,53 +583,53 @@ else :
                             *.wav
 """
 
-OUT_FILE_NAME = 'report.csv'  # 生成结果的文件 这个测试脚本只能生成csv文件
-BASE_FILE_NAME = '/home/long/下载/sdk_test_voice/' # 测试的目录
-REGISTER_FILE_NAME = "/register/" # 注册的文件夹名称
-VERIFY_FILE_NAME = "/verify/" # 验证的文件夹名称
+OUT_FILE_NAME = 'report.csv'  # Generate the results of the file ,This test script can only generate csv file
+BASE_FILE_NAME = '/home/long/下载/sdk_test_voice/' # test directory
+REGISTER_FILE_NAME = "/register/"  # registered folder name 
+VERIFY_FILE_NAME = "/verify/"  # Verify the folder name
 ```
 
 
 
 ---
-## SDK接口错误列表
-| 错误ID | 错误说明 |
+## SDK interface error list
+| Error ID | Misrepresentation |
 | -------| --------|
-| common.miss_param | 缺少请求参数|
-|common.wrong_time_stamp| 错误的时间戳，请求时间和服务器时间相差太大
-|common.wrong_sign| 错误的数据签名
-|common.wrong_data |错误的数据
-|common.unkwon |未知错误
-|common.unkwon_app_id| 未知的app id
-|common.unkwon_session_id |未知的session id
-|common.invalid_id_type |非法的id类型
-|user.wrong_type |错误的用户类型
-|user.not_exist| 用户不存在
-|user.no_parent |父用户不存在
-|user.no_child |子用户不存在
-|user.not_valid| 用户被禁了
-|record.pre_not_done |上一个上传流还未结束
-|record.wrong_id| 错误的上传流ID
-|record.wrong_target| 错误的语音用途
-|record.target_not_allow| 语音用途不被允许
-|record.no_module| 没有处理该语音的算法模块
-|record.not_start |上传流还未开始
-|record.unsupport_data_format| 不支持的语音格式
-|record.snr_too_low| 语音信噪比过低
-|record.speech_too_short |语音时间太短
-|record.volumn_too_low |语音声音太小
-|record.wrong_data |错误的语音数据
-|record.wrong_voice_bit_count| 错误的语音bit数
-|record.wrong_voice_rate |错误的采样率
-|register.wrong_record_id |错误的语音ID
-|register.need_more_record |需要更多语音完成注册
-|register.multi_module |多个算法模型冲突
-|register.no_module_found |没有可用的算法模块
-|verify.wrong_record_id |错误的语音ID
-|verify.no_module_found |没有可用的算法模块
-|verify.need_register| 缺少声纹，需要先注册
-|identity.wrong_record_id| 错误的语音ID
-|identity.no_module_found | 没有可用的算法模块
+|common.miss_param|	Missing request parameters
+|common.wrong_time_stamp|	The wrong timestamp, the request time and the server time difference is too large
+|common.wrong_sign|	Wrong data signature
+|common.wrong_data|	Wrong data
+|common.unkwon|	unknown mistake
+|common.unkwon_app_id|	Unknown app id
+|common.unkwon_session_id|	Unknown session id
+|common.invalid_id_type|	Illegal id type
+|user.wrong_type|	Wrong user type
+|user.not_exist|	User does not exist
+|user.no_parent|	The parent user does not exist
+|user.no_child|	Sub-user does not exist
+|user.not_valid	|The user is banned
+|record.pre_not_done|	The last upload is not over yet
+|record.wrong_id|	Wrong upload stream ID
+|record.wrong_target|	Wrong voice use
+|record.target_not_allow|	Voice use is not allowed
+|record.no_module|	There is no algorithm module that handles the speech
+|record.not_start|	The upload stream has not yet begun
+|record.unsupport_data_format|	Unsupported voice format
+|record.snr_too_low	Voice| signal to noise ratio is too low
+|record.speech_too_short|	Voice time is too short
+|record.volumn_too_low|	Voice sounds too small
+|record.wrong_data|	Wrong voice data
+|record.wrong_voice_bit_count|	Wrong voice bit number
+|record.wrong_voice_rate|	Wrong sampling rate
+|register.wrong_record_id|	Wrong voice ID
+|register.need_more_record|	Need more voice to complete the registration
+|register.multi_module|	Multiple algorithm model conflicts
+|register.no_module_found|	There are no available algorithm modules
+|verify.wrong_record_id|	Wrong voice ID
+|verify.no_module_found	|There are no available algorithm modules
+|verify.need_register|	Lack of voiceprint, need to register first
+|identity.wrong_record_id|	Wrong voice ID
+|identity.no_module_found|	There are no available algorithm modules
 
 
 
