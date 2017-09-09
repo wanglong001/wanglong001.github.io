@@ -1,5 +1,5 @@
 ﻿
-#  PYTHON SDK OF SPEAKIN Voiceprint CLOUD 
+#  PYTHON SDK OF SPEAKIN VOICEPRINT CLOUD 
 All of our interfaces are through the http communication, for the transmission of data content we will use app secret or session secret for encryption and signature. For each user who uses our voiceprint cloud interface, we will provide an app id and app secret. In the security level we have done two levels of authority, the use of the app secret can be user information operation and create a session. For each created session, there are no more than 2 hours of life cycle, session using session secret for encryption and signature, and session will be bound to a user, all operations will only affect the user. For the use of the app secret, we can also server ip restrictions to enhance security.
 
 [TOC]
