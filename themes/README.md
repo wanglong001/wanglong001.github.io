@@ -12,11 +12,12 @@
 全局接口是整个sdk的入口，通过全局接口可以用户用户接口和会话接口。对于每个sdk用户我们都会分配一
 个app id和app secret.
 创建全局接口实例需要如下参数：
-|参数名 |说明|
-|-------|----|
-|appId |我们分配的app id
-|appSecret |我们分配的app secret,需要妥善保管
-|baseUrl |声纹云的http地址，公有云的是http://api2.speakin.mobi
+
+| 参数名 | 说明 |
+|-------|---- |
+| appId | 我们分配的app id|
+| appSecret | 我们分配的app secret,需要妥善保管|
+| baseUrl | 声纹云的http地址，公有云的是http://api2.speakin.mobi|
 
 ``` python
 #!/usr/bin/env python3
