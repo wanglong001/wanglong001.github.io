@@ -11,7 +11,7 @@ python版本：python3.X 以上
 1.  需先进入sdk_py目录
 2.  测试文件在demo/sdk_test_voice下，可以进行替换。demo/sdk_test_voice 目录 里面的 一级文件夹的名称就是你要测试的用户名称(如里面的"ll"文件夹， ll就是测试的用户名)， 具体如下方展示：
 ``` 
-"""
+
     我的目录如下：
     demo/sdk_test_voice
                     |
@@ -34,7 +34,7 @@ python版本：python3.X 以上
                         verify
                                 |
                                 *.wav
-"""
+
 
 ```
 
@@ -55,7 +55,6 @@ cd demo
 python DEMO3.py 你的目录
 ``` 
 
-**结果默认写在 demo/report.csv 中（ 1 表示 true , 0 表示 false）**
 
 ## 注意事项
  1. 注册声纹文件的数量要大于5个
